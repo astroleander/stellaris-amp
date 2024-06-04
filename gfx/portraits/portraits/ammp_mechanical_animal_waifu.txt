@@ -1,0 +1,157 @@
+portraits = {
+	ammp_mechanical_animal_waifu_001 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/02042.dds" }
+	ammp_mechanical_animal_waifu_002 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/02109.bak.dds" }
+	ammp_mechanical_animal_waifu_003 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmp1cihvlu2.bak.dds" }
+	ammp_mechanical_animal_waifu_004 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmp1s6zc88b.bak.dds" }
+	ammp_mechanical_animal_waifu_005 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmp3j14p8jl.bak.dds" }
+	ammp_mechanical_animal_waifu_006 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmp47dfhhve.bak.dds" }
+	ammp_mechanical_animal_waifu_007 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmp4fg8ytby.bak.dds" }
+	ammp_mechanical_animal_waifu_008 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmp4y0ga2dv.bak.dds" }
+	ammp_mechanical_animal_waifu_009 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmp7drvxr52.bak.dds" }
+	ammp_mechanical_animal_waifu_010 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmp7ib7k8v4.dds" }
+	ammp_mechanical_animal_waifu_011 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmp9xfaxq1q.bak.dds" }
+	ammp_mechanical_animal_waifu_012 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmpbcqbtbso.bak.dds" }
+	ammp_mechanical_animal_waifu_013 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmpdsj34sjo.bak.dds" }
+	ammp_mechanical_animal_waifu_014 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmpdz8n6ia3.dds" }
+	ammp_mechanical_animal_waifu_015 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmpjnhtsprt.bak.dds" }
+	ammp_mechanical_animal_waifu_016 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmpjnhtsprt.dds" }
+	ammp_mechanical_animal_waifu_017 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmpjnqxsuja.bak.dds" }
+	ammp_mechanical_animal_waifu_018 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmpncsnwy1b.bak.dds" }
+	ammp_mechanical_animal_waifu_019 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmpug0rl710.bak.dds" }
+	ammp_mechanical_animal_waifu_020 = { texturefile = "gfx/models/portraits/ammp_mechanical_animal_waifu/tmpy7x7z38f.bak.dds" }
+}
+portrait_groups = {
+	ammp_mechanical_animal_waifu = {
+		default = ammp_mechanical_animal_waifu_001
+		game_setup = {
+			add = {
+				portraits = {
+					ammp_mechanical_animal_waifu_001
+					ammp_mechanical_animal_waifu_002
+					ammp_mechanical_animal_waifu_003
+					ammp_mechanical_animal_waifu_004
+					ammp_mechanical_animal_waifu_005
+					ammp_mechanical_animal_waifu_006
+					ammp_mechanical_animal_waifu_007
+					ammp_mechanical_animal_waifu_008
+					ammp_mechanical_animal_waifu_009
+					ammp_mechanical_animal_waifu_010
+					ammp_mechanical_animal_waifu_011
+					ammp_mechanical_animal_waifu_012
+					ammp_mechanical_animal_waifu_013
+					ammp_mechanical_animal_waifu_014
+					ammp_mechanical_animal_waifu_015
+					ammp_mechanical_animal_waifu_016
+					ammp_mechanical_animal_waifu_017
+					ammp_mechanical_animal_waifu_018
+					ammp_mechanical_animal_waifu_019
+					ammp_mechanical_animal_waifu_020
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					ammp_mechanical_animal_waifu_001
+					ammp_mechanical_animal_waifu_002
+					ammp_mechanical_animal_waifu_003
+					ammp_mechanical_animal_waifu_004
+					ammp_mechanical_animal_waifu_005
+					ammp_mechanical_animal_waifu_006
+					ammp_mechanical_animal_waifu_007
+					ammp_mechanical_animal_waifu_008
+					ammp_mechanical_animal_waifu_009
+					ammp_mechanical_animal_waifu_010
+					ammp_mechanical_animal_waifu_011
+					ammp_mechanical_animal_waifu_012
+					ammp_mechanical_animal_waifu_013
+					ammp_mechanical_animal_waifu_014
+					ammp_mechanical_animal_waifu_015
+					ammp_mechanical_animal_waifu_016
+					ammp_mechanical_animal_waifu_017
+					ammp_mechanical_animal_waifu_018
+					ammp_mechanical_animal_waifu_019
+					ammp_mechanical_animal_waifu_020
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					ammp_mechanical_animal_waifu_001
+					ammp_mechanical_animal_waifu_002
+					ammp_mechanical_animal_waifu_003
+					ammp_mechanical_animal_waifu_004
+					ammp_mechanical_animal_waifu_005
+					ammp_mechanical_animal_waifu_006
+					ammp_mechanical_animal_waifu_007
+					ammp_mechanical_animal_waifu_008
+					ammp_mechanical_animal_waifu_009
+					ammp_mechanical_animal_waifu_010
+					ammp_mechanical_animal_waifu_011
+					ammp_mechanical_animal_waifu_012
+					ammp_mechanical_animal_waifu_013
+					ammp_mechanical_animal_waifu_014
+					ammp_mechanical_animal_waifu_015
+					ammp_mechanical_animal_waifu_016
+					ammp_mechanical_animal_waifu_017
+					ammp_mechanical_animal_waifu_018
+					ammp_mechanical_animal_waifu_019
+					ammp_mechanical_animal_waifu_020
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					ammp_mechanical_animal_waifu_001
+					ammp_mechanical_animal_waifu_002
+					ammp_mechanical_animal_waifu_003
+					ammp_mechanical_animal_waifu_004
+					ammp_mechanical_animal_waifu_005
+					ammp_mechanical_animal_waifu_006
+					ammp_mechanical_animal_waifu_007
+					ammp_mechanical_animal_waifu_008
+					ammp_mechanical_animal_waifu_009
+					ammp_mechanical_animal_waifu_010
+					ammp_mechanical_animal_waifu_011
+					ammp_mechanical_animal_waifu_012
+					ammp_mechanical_animal_waifu_013
+					ammp_mechanical_animal_waifu_014
+					ammp_mechanical_animal_waifu_015
+					ammp_mechanical_animal_waifu_016
+					ammp_mechanical_animal_waifu_017
+					ammp_mechanical_animal_waifu_018
+					ammp_mechanical_animal_waifu_019
+					ammp_mechanical_animal_waifu_020
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					ammp_mechanical_animal_waifu_001
+					ammp_mechanical_animal_waifu_002
+					ammp_mechanical_animal_waifu_003
+					ammp_mechanical_animal_waifu_004
+					ammp_mechanical_animal_waifu_005
+					ammp_mechanical_animal_waifu_006
+					ammp_mechanical_animal_waifu_007
+					ammp_mechanical_animal_waifu_008
+					ammp_mechanical_animal_waifu_009
+					ammp_mechanical_animal_waifu_010
+					ammp_mechanical_animal_waifu_011
+					ammp_mechanical_animal_waifu_012
+					ammp_mechanical_animal_waifu_013
+					ammp_mechanical_animal_waifu_014
+					ammp_mechanical_animal_waifu_015
+					ammp_mechanical_animal_waifu_016
+					ammp_mechanical_animal_waifu_017
+					ammp_mechanical_animal_waifu_018
+					ammp_mechanical_animal_waifu_019
+					ammp_mechanical_animal_waifu_020
+				}
+			}
+		}
+	}
+}

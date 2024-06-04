@@ -1,0 +1,43 @@
+portraits = {
+	ammp_core_001 = { texturefile = "gfx/models/portraits/ammp_core/tmpluacq5ez.dds" }
+}
+portrait_groups = {
+	ammp_core = {
+		default = ammp_core_001
+		game_setup = {
+			add = {
+				portraits = {
+					ammp_core_001
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					ammp_core_001
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					ammp_core_001
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					ammp_core_001
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					ammp_core_001
+				}
+			}
+		}
+	}
+}

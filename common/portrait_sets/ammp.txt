@@ -1,0 +1,88 @@
+ammp_machine = {
+	species_class = MACHINE
+
+	conditional_portraits = {
+		portraits = {
+			"ammp_core"
+			"ammp_mechanical_abnormal"
+			"ammp_mechanical_animal_waifu"
+			"ammp_mechanical_doll"
+			"ammp_mechanical_kimono"
+			"ammp_mechanical_maid"
+			"ammp_mechanical_normal"
+			"ammp_mechanical_normal_2"
+			"ammp_mechanical_nun"
+			"ammp_mechanical_pristess"
+			"ammp_mechanical_undead"
+			"ammp_school_uniform"
+			"ammp_2_porcelain_executor"
+		}
+	}
+}
+
+# robot is not in the categories list
+ammp_robot = {
+	species_class = ROBOT
+
+	conditional_portraits = {
+		portraits = {
+			"ammp_core"
+			"ammp_mechanical_abnormal"
+			"ammp_mechanical_animal_waifu"
+			"ammp_mechanical_doll"
+			"ammp_mechanical_kimono"
+			"ammp_mechanical_maid"
+			"ammp_mechanical_normal"
+			"ammp_mechanical_normal_2"
+			"ammp_mechanical_nun"
+			"ammp_mechanical_pristess"
+			"ammp_mechanical_undead"
+			"ammp_school_uniform"
+			"ammp_2_porcelain_executor"
+		}
+	}
+}
+
+ammp_cybernetic = {
+	species_class = CYBERNETIC
+
+	conditional_portraits = {
+		portraits = {
+			"ammp_core"
+			"ammp_mechanical_abnormal"
+			"ammp_mechanical_animal_waifu"
+			"ammp_mechanical_doll"
+			"ammp_mechanical_kimono"
+			"ammp_mechanical_maid"
+			"ammp_mechanical_normal"
+			"ammp_mechanical_normal_2"
+			"ammp_mechanical_nun"
+			"ammp_mechanical_pristess"
+			"ammp_mechanical_undead"
+			"ammp_school_uniform"
+			"ammp_2_porcelain_executor"
+		}
+	}
+}
+
+ammmp_synthetics = {
+	species_class = SYNTH
+
+	conditional_portraits = {
+		portraits = {
+			"ammp_core"
+			"ammp_mechanical_abnormal"
+			"ammp_mechanical_animal_waifu"
+			"ammp_mechanical_doll"
+			"ammp_mechanical_kimono"
+			"ammp_mechanical_maid"
+			"ammp_mechanical_normal"
+			"ammp_mechanical_normal_2"
+			"ammp_mechanical_nun"
+			"ammp_mechanical_pristess"
+			"ammp_mechanical_undead"
+			"ammp_school_uniform"
+			"ammp_2_porcelain_executor"
+		}
+	}
+}

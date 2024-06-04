@@ -1,0 +1,313 @@
+portraits = {
+	ammp_mechanical_normal_2_001 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/02096.dds" }
+	ammp_mechanical_normal_2_002 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/02097.dds" }
+	ammp_mechanical_normal_2_003 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/02098.dds" }
+	ammp_mechanical_normal_2_004 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/02099.dds" }
+	ammp_mechanical_normal_2_005 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/02100.dds" }
+	ammp_mechanical_normal_2_006 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/02101.dds" }
+	ammp_mechanical_normal_2_007 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/02102.dds" }
+	ammp_mechanical_normal_2_008 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/02103.dds" }
+	ammp_mechanical_normal_2_009 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/02104.dds" }
+	ammp_mechanical_normal_2_010 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/02105.dds" }
+	ammp_mechanical_normal_2_011 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/02106.dds" }
+	ammp_mechanical_normal_2_012 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/02108.dds" }
+	ammp_mechanical_normal_2_013 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/machine.dds" }
+	ammp_mechanical_normal_2_014 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp019cezzf.dds" }
+	ammp_mechanical_normal_2_015 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp0jynkhpy.dds" }
+	ammp_mechanical_normal_2_016 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp1hc872d1.dds" }
+	ammp_mechanical_normal_2_017 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp2qfpqoad.dds" }
+	ammp_mechanical_normal_2_018 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp3g7tkhib.dds" }
+	ammp_mechanical_normal_2_019 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp40r3doj8.dds" }
+	ammp_mechanical_normal_2_020 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp4b2fknpb.dds" }
+	ammp_mechanical_normal_2_021 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp4mvje6mq.dds" }
+	ammp_mechanical_normal_2_022 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp59x_mr_e.dds" }
+	ammp_mechanical_normal_2_023 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp5_vmtm2_.dds" }
+	ammp_mechanical_normal_2_024 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp60f2evrn.dds" }
+	ammp_mechanical_normal_2_025 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp61ubwhnt.dds" }
+	ammp_mechanical_normal_2_026 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp6q0b7ytn.dds" }
+	ammp_mechanical_normal_2_027 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp741duqzi.dds" }
+	ammp_mechanical_normal_2_028 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp80zcsnjh.dds" }
+	ammp_mechanical_normal_2_029 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp8abvdt3_.dds" }
+	ammp_mechanical_normal_2_030 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp8lopr8l1.dds" }
+	ammp_mechanical_normal_2_031 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmp8q7vbrkj.dds" }
+	ammp_mechanical_normal_2_032 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmpax19o8b8.dds" }
+	ammp_mechanical_normal_2_033 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmpblj4j79t.dds" }
+	ammp_mechanical_normal_2_034 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmpg3f92hks.dds" }
+	ammp_mechanical_normal_2_035 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmphzn1cr6g.dds" }
+	ammp_mechanical_normal_2_036 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmpivzoasbf.dds" }
+	ammp_mechanical_normal_2_037 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmpj1uugp86.dds" }
+	ammp_mechanical_normal_2_038 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmpj48vo_t0.dds" }
+	ammp_mechanical_normal_2_039 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmpk89058n_.dds" }
+	ammp_mechanical_normal_2_040 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmpnb89919p.dds" }
+	ammp_mechanical_normal_2_041 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmpqo29sf4z.dds" }
+	ammp_mechanical_normal_2_042 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmpqrzpz7vq.dds" }
+	ammp_mechanical_normal_2_043 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmpr9ywsqpj.dds" }
+	ammp_mechanical_normal_2_044 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmpug0bju_q.dds" }
+	ammp_mechanical_normal_2_045 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmpw14epwws.dds" }
+	ammp_mechanical_normal_2_046 = { texturefile = "gfx/models/portraits/ammp_mechanical_normal_2/tmpzsfa7zk1.dds" }
+}
+portrait_groups = {
+	ammp_mechanical_normal_2 = {
+		default = ammp_mechanical_normal_2_001
+		game_setup = {
+			add = {
+				portraits = {
+					ammp_mechanical_normal_2_001
+					ammp_mechanical_normal_2_002
+					ammp_mechanical_normal_2_003
+					ammp_mechanical_normal_2_004
+					ammp_mechanical_normal_2_005
+					ammp_mechanical_normal_2_006
+					ammp_mechanical_normal_2_007
+					ammp_mechanical_normal_2_008
+					ammp_mechanical_normal_2_009
+					ammp_mechanical_normal_2_010
+					ammp_mechanical_normal_2_011
+					ammp_mechanical_normal_2_012
+					ammp_mechanical_normal_2_013
+					ammp_mechanical_normal_2_014
+					ammp_mechanical_normal_2_015
+					ammp_mechanical_normal_2_016
+					ammp_mechanical_normal_2_017
+					ammp_mechanical_normal_2_018
+					ammp_mechanical_normal_2_019
+					ammp_mechanical_normal_2_020
+					ammp_mechanical_normal_2_021
+					ammp_mechanical_normal_2_022
+					ammp_mechanical_normal_2_023
+					ammp_mechanical_normal_2_024
+					ammp_mechanical_normal_2_025
+					ammp_mechanical_normal_2_026
+					ammp_mechanical_normal_2_027
+					ammp_mechanical_normal_2_028
+					ammp_mechanical_normal_2_029
+					ammp_mechanical_normal_2_030
+					ammp_mechanical_normal_2_031
+					ammp_mechanical_normal_2_032
+					ammp_mechanical_normal_2_033
+					ammp_mechanical_normal_2_034
+					ammp_mechanical_normal_2_035
+					ammp_mechanical_normal_2_036
+					ammp_mechanical_normal_2_037
+					ammp_mechanical_normal_2_038
+					ammp_mechanical_normal_2_039
+					ammp_mechanical_normal_2_040
+					ammp_mechanical_normal_2_041
+					ammp_mechanical_normal_2_042
+					ammp_mechanical_normal_2_043
+					ammp_mechanical_normal_2_044
+					ammp_mechanical_normal_2_045
+					ammp_mechanical_normal_2_046
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					ammp_mechanical_normal_2_001
+					ammp_mechanical_normal_2_002
+					ammp_mechanical_normal_2_003
+					ammp_mechanical_normal_2_004
+					ammp_mechanical_normal_2_005
+					ammp_mechanical_normal_2_006
+					ammp_mechanical_normal_2_007
+					ammp_mechanical_normal_2_008
+					ammp_mechanical_normal_2_009
+					ammp_mechanical_normal_2_010
+					ammp_mechanical_normal_2_011
+					ammp_mechanical_normal_2_012
+					ammp_mechanical_normal_2_013
+					ammp_mechanical_normal_2_014
+					ammp_mechanical_normal_2_015
+					ammp_mechanical_normal_2_016
+					ammp_mechanical_normal_2_017
+					ammp_mechanical_normal_2_018
+					ammp_mechanical_normal_2_019
+					ammp_mechanical_normal_2_020
+					ammp_mechanical_normal_2_021
+					ammp_mechanical_normal_2_022
+					ammp_mechanical_normal_2_023
+					ammp_mechanical_normal_2_024
+					ammp_mechanical_normal_2_025
+					ammp_mechanical_normal_2_026
+					ammp_mechanical_normal_2_027
+					ammp_mechanical_normal_2_028
+					ammp_mechanical_normal_2_029
+					ammp_mechanical_normal_2_030
+					ammp_mechanical_normal_2_031
+					ammp_mechanical_normal_2_032
+					ammp_mechanical_normal_2_033
+					ammp_mechanical_normal_2_034
+					ammp_mechanical_normal_2_035
+					ammp_mechanical_normal_2_036
+					ammp_mechanical_normal_2_037
+					ammp_mechanical_normal_2_038
+					ammp_mechanical_normal_2_039
+					ammp_mechanical_normal_2_040
+					ammp_mechanical_normal_2_041
+					ammp_mechanical_normal_2_042
+					ammp_mechanical_normal_2_043
+					ammp_mechanical_normal_2_044
+					ammp_mechanical_normal_2_045
+					ammp_mechanical_normal_2_046
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					ammp_mechanical_normal_2_001
+					ammp_mechanical_normal_2_002
+					ammp_mechanical_normal_2_003
+					ammp_mechanical_normal_2_004
+					ammp_mechanical_normal_2_005
+					ammp_mechanical_normal_2_006
+					ammp_mechanical_normal_2_007
+					ammp_mechanical_normal_2_008
+					ammp_mechanical_normal_2_009
+					ammp_mechanical_normal_2_010
+					ammp_mechanical_normal_2_011
+					ammp_mechanical_normal_2_012
+					ammp_mechanical_normal_2_013
+					ammp_mechanical_normal_2_014
+					ammp_mechanical_normal_2_015
+					ammp_mechanical_normal_2_016
+					ammp_mechanical_normal_2_017
+					ammp_mechanical_normal_2_018
+					ammp_mechanical_normal_2_019
+					ammp_mechanical_normal_2_020
+					ammp_mechanical_normal_2_021
+					ammp_mechanical_normal_2_022
+					ammp_mechanical_normal_2_023
+					ammp_mechanical_normal_2_024
+					ammp_mechanical_normal_2_025
+					ammp_mechanical_normal_2_026
+					ammp_mechanical_normal_2_027
+					ammp_mechanical_normal_2_028
+					ammp_mechanical_normal_2_029
+					ammp_mechanical_normal_2_030
+					ammp_mechanical_normal_2_031
+					ammp_mechanical_normal_2_032
+					ammp_mechanical_normal_2_033
+					ammp_mechanical_normal_2_034
+					ammp_mechanical_normal_2_035
+					ammp_mechanical_normal_2_036
+					ammp_mechanical_normal_2_037
+					ammp_mechanical_normal_2_038
+					ammp_mechanical_normal_2_039
+					ammp_mechanical_normal_2_040
+					ammp_mechanical_normal_2_041
+					ammp_mechanical_normal_2_042
+					ammp_mechanical_normal_2_043
+					ammp_mechanical_normal_2_044
+					ammp_mechanical_normal_2_045
+					ammp_mechanical_normal_2_046
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					ammp_mechanical_normal_2_001
+					ammp_mechanical_normal_2_002
+					ammp_mechanical_normal_2_003
+					ammp_mechanical_normal_2_004
+					ammp_mechanical_normal_2_005
+					ammp_mechanical_normal_2_006
+					ammp_mechanical_normal_2_007
+					ammp_mechanical_normal_2_008
+					ammp_mechanical_normal_2_009
+					ammp_mechanical_normal_2_010
+					ammp_mechanical_normal_2_011
+					ammp_mechanical_normal_2_012
+					ammp_mechanical_normal_2_013
+					ammp_mechanical_normal_2_014
+					ammp_mechanical_normal_2_015
+					ammp_mechanical_normal_2_016
+					ammp_mechanical_normal_2_017
+					ammp_mechanical_normal_2_018
+					ammp_mechanical_normal_2_019
+					ammp_mechanical_normal_2_020
+					ammp_mechanical_normal_2_021
+					ammp_mechanical_normal_2_022
+					ammp_mechanical_normal_2_023
+					ammp_mechanical_normal_2_024
+					ammp_mechanical_normal_2_025
+					ammp_mechanical_normal_2_026
+					ammp_mechanical_normal_2_027
+					ammp_mechanical_normal_2_028
+					ammp_mechanical_normal_2_029
+					ammp_mechanical_normal_2_030
+					ammp_mechanical_normal_2_031
+					ammp_mechanical_normal_2_032
+					ammp_mechanical_normal_2_033
+					ammp_mechanical_normal_2_034
+					ammp_mechanical_normal_2_035
+					ammp_mechanical_normal_2_036
+					ammp_mechanical_normal_2_037
+					ammp_mechanical_normal_2_038
+					ammp_mechanical_normal_2_039
+					ammp_mechanical_normal_2_040
+					ammp_mechanical_normal_2_041
+					ammp_mechanical_normal_2_042
+					ammp_mechanical_normal_2_043
+					ammp_mechanical_normal_2_044
+					ammp_mechanical_normal_2_045
+					ammp_mechanical_normal_2_046
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					ammp_mechanical_normal_2_001
+					ammp_mechanical_normal_2_002
+					ammp_mechanical_normal_2_003
+					ammp_mechanical_normal_2_004
+					ammp_mechanical_normal_2_005
+					ammp_mechanical_normal_2_006
+					ammp_mechanical_normal_2_007
+					ammp_mechanical_normal_2_008
+					ammp_mechanical_normal_2_009
+					ammp_mechanical_normal_2_010
+					ammp_mechanical_normal_2_011
+					ammp_mechanical_normal_2_012
+					ammp_mechanical_normal_2_013
+					ammp_mechanical_normal_2_014
+					ammp_mechanical_normal_2_015
+					ammp_mechanical_normal_2_016
+					ammp_mechanical_normal_2_017
+					ammp_mechanical_normal_2_018
+					ammp_mechanical_normal_2_019
+					ammp_mechanical_normal_2_020
+					ammp_mechanical_normal_2_021
+					ammp_mechanical_normal_2_022
+					ammp_mechanical_normal_2_023
+					ammp_mechanical_normal_2_024
+					ammp_mechanical_normal_2_025
+					ammp_mechanical_normal_2_026
+					ammp_mechanical_normal_2_027
+					ammp_mechanical_normal_2_028
+					ammp_mechanical_normal_2_029
+					ammp_mechanical_normal_2_030
+					ammp_mechanical_normal_2_031
+					ammp_mechanical_normal_2_032
+					ammp_mechanical_normal_2_033
+					ammp_mechanical_normal_2_034
+					ammp_mechanical_normal_2_035
+					ammp_mechanical_normal_2_036
+					ammp_mechanical_normal_2_037
+					ammp_mechanical_normal_2_038
+					ammp_mechanical_normal_2_039
+					ammp_mechanical_normal_2_040
+					ammp_mechanical_normal_2_041
+					ammp_mechanical_normal_2_042
+					ammp_mechanical_normal_2_043
+					ammp_mechanical_normal_2_044
+					ammp_mechanical_normal_2_045
+					ammp_mechanical_normal_2_046
+				}
+			}
+		}
+	}
+}

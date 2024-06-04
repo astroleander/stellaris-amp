@@ -1,0 +1,217 @@
+portraits = {
+	ammp_school_uniform_001 = { texturefile = "gfx/models/portraits/ammp_school_uniform/00446-cornflowerStylizedAnime_11_411059326 (2).dds" }
+	ammp_school_uniform_002 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmp07z_u9bb.dds" }
+	ammp_school_uniform_003 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmp2higp9hk.dds" }
+	ammp_school_uniform_004 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmp4ynkrnpb.dds" }
+	ammp_school_uniform_005 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmp5sggitim.dds" }
+	ammp_school_uniform_006 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmp6diti8yz.dds" }
+	ammp_school_uniform_007 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmp6lewj4ws.dds" }
+	ammp_school_uniform_008 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmp7_hstw2s.dds" }
+	ammp_school_uniform_009 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmp8abvdt3_.dds" }
+	ammp_school_uniform_010 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmp_mias1x6.dds" }
+	ammp_school_uniform_011 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmp_yc1sr2r.dds" }
+	ammp_school_uniform_012 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpci13zj42.dds" }
+	ammp_school_uniform_013 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpcsrwmpaq.dds" }
+	ammp_school_uniform_014 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpel26zfr9.dds" }
+	ammp_school_uniform_015 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpg0e6plrf.dds" }
+	ammp_school_uniform_016 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpg5e1eg1h.dds" }
+	ammp_school_uniform_017 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpgjtzugm8.dds" }
+	ammp_school_uniform_018 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpgu_k2whe.dds" }
+	ammp_school_uniform_019 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmph5aagiqb.dds" }
+	ammp_school_uniform_020 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpi8ixvg2q.dds" }
+	ammp_school_uniform_021 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpk_39zivg.dds" }
+	ammp_school_uniform_022 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpkr1mzdcg.dds" }
+	ammp_school_uniform_023 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpnxrm2tsz.dds" }
+	ammp_school_uniform_024 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpoxx4qrce.dds" }
+	ammp_school_uniform_025 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpqkkwt03d.dds" }
+	ammp_school_uniform_026 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpsdqba5io.dds" }
+	ammp_school_uniform_027 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmptsvm8k40.dds" }
+	ammp_school_uniform_028 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpwl27y_n4.dds" }
+	ammp_school_uniform_029 = { texturefile = "gfx/models/portraits/ammp_school_uniform/tmpyiatir2s.dds" }
+	ammp_school_uniform_030 = { texturefile = "gfx/models/portraits/ammp_school_uniform/white hair 2.dds" }
+}
+portrait_groups = {
+	ammp_school_uniform = {
+		default = ammp_school_uniform_001
+		game_setup = {
+			add = {
+				portraits = {
+					ammp_school_uniform_001
+					ammp_school_uniform_002
+					ammp_school_uniform_003
+					ammp_school_uniform_004
+					ammp_school_uniform_005
+					ammp_school_uniform_006
+					ammp_school_uniform_007
+					ammp_school_uniform_008
+					ammp_school_uniform_009
+					ammp_school_uniform_010
+					ammp_school_uniform_011
+					ammp_school_uniform_012
+					ammp_school_uniform_013
+					ammp_school_uniform_014
+					ammp_school_uniform_015
+					ammp_school_uniform_016
+					ammp_school_uniform_017
+					ammp_school_uniform_018
+					ammp_school_uniform_019
+					ammp_school_uniform_020
+					ammp_school_uniform_021
+					ammp_school_uniform_022
+					ammp_school_uniform_023
+					ammp_school_uniform_024
+					ammp_school_uniform_025
+					ammp_school_uniform_026
+					ammp_school_uniform_027
+					ammp_school_uniform_028
+					ammp_school_uniform_029
+					ammp_school_uniform_030
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					ammp_school_uniform_001
+					ammp_school_uniform_002
+					ammp_school_uniform_003
+					ammp_school_uniform_004
+					ammp_school_uniform_005
+					ammp_school_uniform_006
+					ammp_school_uniform_007
+					ammp_school_uniform_008
+					ammp_school_uniform_009
+					ammp_school_uniform_010
+					ammp_school_uniform_011
+					ammp_school_uniform_012
+					ammp_school_uniform_013
+					ammp_school_uniform_014
+					ammp_school_uniform_015
+					ammp_school_uniform_016
+					ammp_school_uniform_017
+					ammp_school_uniform_018
+					ammp_school_uniform_019
+					ammp_school_uniform_020
+					ammp_school_uniform_021
+					ammp_school_uniform_022
+					ammp_school_uniform_023
+					ammp_school_uniform_024
+					ammp_school_uniform_025
+					ammp_school_uniform_026
+					ammp_school_uniform_027
+					ammp_school_uniform_028
+					ammp_school_uniform_029
+					ammp_school_uniform_030
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					ammp_school_uniform_001
+					ammp_school_uniform_002
+					ammp_school_uniform_003
+					ammp_school_uniform_004
+					ammp_school_uniform_005
+					ammp_school_uniform_006
+					ammp_school_uniform_007
+					ammp_school_uniform_008
+					ammp_school_uniform_009
+					ammp_school_uniform_010
+					ammp_school_uniform_011
+					ammp_school_uniform_012
+					ammp_school_uniform_013
+					ammp_school_uniform_014
+					ammp_school_uniform_015
+					ammp_school_uniform_016
+					ammp_school_uniform_017
+					ammp_school_uniform_018
+					ammp_school_uniform_019
+					ammp_school_uniform_020
+					ammp_school_uniform_021
+					ammp_school_uniform_022
+					ammp_school_uniform_023
+					ammp_school_uniform_024
+					ammp_school_uniform_025
+					ammp_school_uniform_026
+					ammp_school_uniform_027
+					ammp_school_uniform_028
+					ammp_school_uniform_029
+					ammp_school_uniform_030
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					ammp_school_uniform_001
+					ammp_school_uniform_002
+					ammp_school_uniform_003
+					ammp_school_uniform_004
+					ammp_school_uniform_005
+					ammp_school_uniform_006
+					ammp_school_uniform_007
+					ammp_school_uniform_008
+					ammp_school_uniform_009
+					ammp_school_uniform_010
+					ammp_school_uniform_011
+					ammp_school_uniform_012
+					ammp_school_uniform_013
+					ammp_school_uniform_014
+					ammp_school_uniform_015
+					ammp_school_uniform_016
+					ammp_school_uniform_017
+					ammp_school_uniform_018
+					ammp_school_uniform_019
+					ammp_school_uniform_020
+					ammp_school_uniform_021
+					ammp_school_uniform_022
+					ammp_school_uniform_023
+					ammp_school_uniform_024
+					ammp_school_uniform_025
+					ammp_school_uniform_026
+					ammp_school_uniform_027
+					ammp_school_uniform_028
+					ammp_school_uniform_029
+					ammp_school_uniform_030
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					ammp_school_uniform_001
+					ammp_school_uniform_002
+					ammp_school_uniform_003
+					ammp_school_uniform_004
+					ammp_school_uniform_005
+					ammp_school_uniform_006
+					ammp_school_uniform_007
+					ammp_school_uniform_008
+					ammp_school_uniform_009
+					ammp_school_uniform_010
+					ammp_school_uniform_011
+					ammp_school_uniform_012
+					ammp_school_uniform_013
+					ammp_school_uniform_014
+					ammp_school_uniform_015
+					ammp_school_uniform_016
+					ammp_school_uniform_017
+					ammp_school_uniform_018
+					ammp_school_uniform_019
+					ammp_school_uniform_020
+					ammp_school_uniform_021
+					ammp_school_uniform_022
+					ammp_school_uniform_023
+					ammp_school_uniform_024
+					ammp_school_uniform_025
+					ammp_school_uniform_026
+					ammp_school_uniform_027
+					ammp_school_uniform_028
+					ammp_school_uniform_029
+					ammp_school_uniform_030
+				}
+			}
+		}
+	}
+}

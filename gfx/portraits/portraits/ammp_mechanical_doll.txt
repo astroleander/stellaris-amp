@@ -1,0 +1,151 @@
+portraits = {
+	ammp_mechanical_doll_001 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/02046.dds" }
+	ammp_mechanical_doll_002 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/02073.dds" }
+	ammp_mechanical_doll_003 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/02074.dds" }
+	ammp_mechanical_doll_004 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/02075.dds" }
+	ammp_mechanical_doll_005 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/02082.dds" }
+	ammp_mechanical_doll_006 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/02084.dds" }
+	ammp_mechanical_doll_007 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/02085.dds" }
+	ammp_mechanical_doll_008 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/02093.dds" }
+	ammp_mechanical_doll_009 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/tmp3yarskhb.dds" }
+	ammp_mechanical_doll_010 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/tmpdv_kc0b_.dds" }
+	ammp_mechanical_doll_011 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/tmpf8ytai34.dds" }
+	ammp_mechanical_doll_012 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/tmpg2pic5xz.dds" }
+	ammp_mechanical_doll_013 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/tmpglqojrd7.dds" }
+	ammp_mechanical_doll_014 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/tmpm0ah7a0l.dds" }
+	ammp_mechanical_doll_015 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/tmpt1q_gg2u.dds" }
+	ammp_mechanical_doll_016 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/tmpt1sau8uv.dds" }
+	ammp_mechanical_doll_017 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/tmptsj0pe7y.dds" }
+	ammp_mechanical_doll_018 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/tmpurmyde1i.dds" }
+	ammp_mechanical_doll_019 = { texturefile = "gfx/models/portraits/ammp_mechanical_doll/tmpvk5cyvyd.dds" }
+}
+portrait_groups = {
+	ammp_mechanical_doll = {
+		default = ammp_mechanical_doll_001
+		game_setup = {
+			add = {
+				portraits = {
+					ammp_mechanical_doll_001
+					ammp_mechanical_doll_002
+					ammp_mechanical_doll_003
+					ammp_mechanical_doll_004
+					ammp_mechanical_doll_005
+					ammp_mechanical_doll_006
+					ammp_mechanical_doll_007
+					ammp_mechanical_doll_008
+					ammp_mechanical_doll_009
+					ammp_mechanical_doll_010
+					ammp_mechanical_doll_011
+					ammp_mechanical_doll_012
+					ammp_mechanical_doll_013
+					ammp_mechanical_doll_014
+					ammp_mechanical_doll_015
+					ammp_mechanical_doll_016
+					ammp_mechanical_doll_017
+					ammp_mechanical_doll_018
+					ammp_mechanical_doll_019
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					ammp_mechanical_doll_001
+					ammp_mechanical_doll_002
+					ammp_mechanical_doll_003
+					ammp_mechanical_doll_004
+					ammp_mechanical_doll_005
+					ammp_mechanical_doll_006
+					ammp_mechanical_doll_007
+					ammp_mechanical_doll_008
+					ammp_mechanical_doll_009
+					ammp_mechanical_doll_010
+					ammp_mechanical_doll_011
+					ammp_mechanical_doll_012
+					ammp_mechanical_doll_013
+					ammp_mechanical_doll_014
+					ammp_mechanical_doll_015
+					ammp_mechanical_doll_016
+					ammp_mechanical_doll_017
+					ammp_mechanical_doll_018
+					ammp_mechanical_doll_019
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					ammp_mechanical_doll_001
+					ammp_mechanical_doll_002
+					ammp_mechanical_doll_003
+					ammp_mechanical_doll_004
+					ammp_mechanical_doll_005
+					ammp_mechanical_doll_006
+					ammp_mechanical_doll_007
+					ammp_mechanical_doll_008
+					ammp_mechanical_doll_009
+					ammp_mechanical_doll_010
+					ammp_mechanical_doll_011
+					ammp_mechanical_doll_012
+					ammp_mechanical_doll_013
+					ammp_mechanical_doll_014
+					ammp_mechanical_doll_015
+					ammp_mechanical_doll_016
+					ammp_mechanical_doll_017
+					ammp_mechanical_doll_018
+					ammp_mechanical_doll_019
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					ammp_mechanical_doll_001
+					ammp_mechanical_doll_002
+					ammp_mechanical_doll_003
+					ammp_mechanical_doll_004
+					ammp_mechanical_doll_005
+					ammp_mechanical_doll_006
+					ammp_mechanical_doll_007
+					ammp_mechanical_doll_008
+					ammp_mechanical_doll_009
+					ammp_mechanical_doll_010
+					ammp_mechanical_doll_011
+					ammp_mechanical_doll_012
+					ammp_mechanical_doll_013
+					ammp_mechanical_doll_014
+					ammp_mechanical_doll_015
+					ammp_mechanical_doll_016
+					ammp_mechanical_doll_017
+					ammp_mechanical_doll_018
+					ammp_mechanical_doll_019
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					ammp_mechanical_doll_001
+					ammp_mechanical_doll_002
+					ammp_mechanical_doll_003
+					ammp_mechanical_doll_004
+					ammp_mechanical_doll_005
+					ammp_mechanical_doll_006
+					ammp_mechanical_doll_007
+					ammp_mechanical_doll_008
+					ammp_mechanical_doll_009
+					ammp_mechanical_doll_010
+					ammp_mechanical_doll_011
+					ammp_mechanical_doll_012
+					ammp_mechanical_doll_013
+					ammp_mechanical_doll_014
+					ammp_mechanical_doll_015
+					ammp_mechanical_doll_016
+					ammp_mechanical_doll_017
+					ammp_mechanical_doll_018
+					ammp_mechanical_doll_019
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,254 @@
+
+portraits = {
+  ammp_2_porcelain_executor_001 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00013-cornflowerStylizedAnime_12_1645797065.png" }
+  ammp_2_porcelain_executor_002 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00014-cornflowerStylizedAnime_12_952519079.png" }
+  ammp_2_porcelain_executor_003 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00015-cornflowerStylizedAnime_12_3406007317.png" }
+  ammp_2_porcelain_executor_004 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00016-cornflowerStylizedAnime_12_3850844669.png" }
+  ammp_2_porcelain_executor_005 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00017-cornflowerStylizedAnime_12_2085252711.png" }
+  ammp_2_porcelain_executor_006 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00018-cornflowerStylizedAnime_12_2085252712.png" }
+  ammp_2_porcelain_executor_007 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00019-cornflowerStylizedAnime_12_2085252713.png" }
+  ammp_2_porcelain_executor_008 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00020-cornflowerStylizedAnime_12_2085252714.png" }
+  ammp_2_porcelain_executor_009 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00023-cornflowerStylizedAnime_12_2085252717.png" }
+  ammp_2_porcelain_executor_010 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00024-cornflowerStylizedAnime_12_2085252718.png" }
+  ammp_2_porcelain_executor_011 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00025-cornflowerStylizedAnime_12_2085252719.png" }
+  ammp_2_porcelain_executor_012 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00028-cornflowerStylizedAnime_12_2085252722.png" }
+  ammp_2_porcelain_executor_013 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00029-cornflowerStylizedAnime_12_2085252723.png" }
+  ammp_2_porcelain_executor_014 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00032-cornflowerStylizedAnime_12_2085252726.png" }
+  ammp_2_porcelain_executor_015 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00034-cornflowerStylizedAnime_12_2085252728.png" }
+  ammp_2_porcelain_executor_016 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00035-cornflowerStylizedAnime_12_2085252729.png" }
+  ammp_2_porcelain_executor_017 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00036-cornflowerStylizedAnime_12_2085252730.png" }
+  ammp_2_porcelain_executor_018 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00038-cornflowerStylizedAnime_12_2085252732.png" }
+  ammp_2_porcelain_executor_019 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00040-cornflowerStylizedAnime_12_2085252734.png" }
+  ammp_2_porcelain_executor_020 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00041-cornflowerStylizedAnime_12_2085252735.png" }
+  ammp_2_porcelain_executor_021 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00043-cornflowerStylizedAnime_12_2085252737.png" }
+  ammp_2_porcelain_executor_022 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00045-cornflowerStylizedAnime_12_2085252739.png" }
+  ammp_2_porcelain_executor_023 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00048-cornflowerStylizedAnime_12_2085252742.png" }
+  ammp_2_porcelain_executor_024 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00049-cornflowerStylizedAnime_12_2085252743.png" }
+  ammp_2_porcelain_executor_025 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00050-cornflowerStylizedAnime_12_2085252744.png" }
+  ammp_2_porcelain_executor_026 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00051-cornflowerStylizedAnime_12_2085252745.png" }
+  ammp_2_porcelain_executor_027 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00052-cornflowerStylizedAnime_12_2085252746.png" }
+  ammp_2_porcelain_executor_028 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00053-cornflowerStylizedAnime_12_2085252747.png" }
+  ammp_2_porcelain_executor_029 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00055-cornflowerStylizedAnime_12_2085252749.png" }
+  ammp_2_porcelain_executor_030 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00057-cornflowerStylizedAnime_12_2085252751.png" }
+  ammp_2_porcelain_executor_031 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00058-cornflowerStylizedAnime_12_2085252752.png" }
+  ammp_2_porcelain_executor_032 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00059-cornflowerStylizedAnime_12_2085252753.png" }
+  ammp_2_porcelain_executor_033 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00061-cornflowerStylizedAnime_12_2085252755.png" }
+  ammp_2_porcelain_executor_034 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00064-cornflowerStylizedAnime_12_2085252758.png" }
+  ammp_2_porcelain_executor_035 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00066-cornflowerStylizedAnime_12_2085252760.png" }
+  ammp_2_porcelain_executor_036 = { texturefile = "gfx/models/portraits/ammp_2_porcelain_executor/00069-cornflowerStylizedAnime_12_2085252763.png" }
+}
+portrait_groups = {
+  ammp_2_porcelain_executor = {
+    default = ammp_2_porcelain_executor_001
+  game_setup = {
+    add = {
+      portraits = {
+        ammp_2_porcelain_executor_001
+        ammp_2_porcelain_executor_002
+        ammp_2_porcelain_executor_003
+        ammp_2_porcelain_executor_004
+        ammp_2_porcelain_executor_005
+        ammp_2_porcelain_executor_006
+        ammp_2_porcelain_executor_007
+        ammp_2_porcelain_executor_008
+        ammp_2_porcelain_executor_009
+        ammp_2_porcelain_executor_010
+        ammp_2_porcelain_executor_011
+        ammp_2_porcelain_executor_012
+        ammp_2_porcelain_executor_013
+        ammp_2_porcelain_executor_014
+        ammp_2_porcelain_executor_015
+        ammp_2_porcelain_executor_016
+        ammp_2_porcelain_executor_017
+        ammp_2_porcelain_executor_018
+        ammp_2_porcelain_executor_019
+        ammp_2_porcelain_executor_020
+        ammp_2_porcelain_executor_021
+        ammp_2_porcelain_executor_022
+        ammp_2_porcelain_executor_023
+        ammp_2_porcelain_executor_024
+        ammp_2_porcelain_executor_025
+        ammp_2_porcelain_executor_026
+        ammp_2_porcelain_executor_027
+        ammp_2_porcelain_executor_028
+        ammp_2_porcelain_executor_029
+        ammp_2_porcelain_executor_030
+        ammp_2_porcelain_executor_031
+        ammp_2_porcelain_executor_032
+        ammp_2_porcelain_executor_033
+        ammp_2_porcelain_executor_034
+        ammp_2_porcelain_executor_035
+        ammp_2_porcelain_executor_036
+        }
+      }
+    }
+  species = {
+    add = {
+      portraits = {
+        ammp_2_porcelain_executor_001
+        ammp_2_porcelain_executor_002
+        ammp_2_porcelain_executor_003
+        ammp_2_porcelain_executor_004
+        ammp_2_porcelain_executor_005
+        ammp_2_porcelain_executor_006
+        ammp_2_porcelain_executor_007
+        ammp_2_porcelain_executor_008
+        ammp_2_porcelain_executor_009
+        ammp_2_porcelain_executor_010
+        ammp_2_porcelain_executor_011
+        ammp_2_porcelain_executor_012
+        ammp_2_porcelain_executor_013
+        ammp_2_porcelain_executor_014
+        ammp_2_porcelain_executor_015
+        ammp_2_porcelain_executor_016
+        ammp_2_porcelain_executor_017
+        ammp_2_porcelain_executor_018
+        ammp_2_porcelain_executor_019
+        ammp_2_porcelain_executor_020
+        ammp_2_porcelain_executor_021
+        ammp_2_porcelain_executor_022
+        ammp_2_porcelain_executor_023
+        ammp_2_porcelain_executor_024
+        ammp_2_porcelain_executor_025
+        ammp_2_porcelain_executor_026
+        ammp_2_porcelain_executor_027
+        ammp_2_porcelain_executor_028
+        ammp_2_porcelain_executor_029
+        ammp_2_porcelain_executor_030
+        ammp_2_porcelain_executor_031
+        ammp_2_porcelain_executor_032
+        ammp_2_porcelain_executor_033
+        ammp_2_porcelain_executor_034
+        ammp_2_porcelain_executor_035
+        ammp_2_porcelain_executor_036
+        }
+      }
+    }
+  pop = {
+    add = {
+      portraits = {
+        ammp_2_porcelain_executor_001
+        ammp_2_porcelain_executor_002
+        ammp_2_porcelain_executor_003
+        ammp_2_porcelain_executor_004
+        ammp_2_porcelain_executor_005
+        ammp_2_porcelain_executor_006
+        ammp_2_porcelain_executor_007
+        ammp_2_porcelain_executor_008
+        ammp_2_porcelain_executor_009
+        ammp_2_porcelain_executor_010
+        ammp_2_porcelain_executor_011
+        ammp_2_porcelain_executor_012
+        ammp_2_porcelain_executor_013
+        ammp_2_porcelain_executor_014
+        ammp_2_porcelain_executor_015
+        ammp_2_porcelain_executor_016
+        ammp_2_porcelain_executor_017
+        ammp_2_porcelain_executor_018
+        ammp_2_porcelain_executor_019
+        ammp_2_porcelain_executor_020
+        ammp_2_porcelain_executor_021
+        ammp_2_porcelain_executor_022
+        ammp_2_porcelain_executor_023
+        ammp_2_porcelain_executor_024
+        ammp_2_porcelain_executor_025
+        ammp_2_porcelain_executor_026
+        ammp_2_porcelain_executor_027
+        ammp_2_porcelain_executor_028
+        ammp_2_porcelain_executor_029
+        ammp_2_porcelain_executor_030
+        ammp_2_porcelain_executor_031
+        ammp_2_porcelain_executor_032
+        ammp_2_porcelain_executor_033
+        ammp_2_porcelain_executor_034
+        ammp_2_porcelain_executor_035
+        ammp_2_porcelain_executor_036
+        }
+      }
+    }
+  leader = {
+    add = {
+      portraits = {
+        ammp_2_porcelain_executor_001
+        ammp_2_porcelain_executor_002
+        ammp_2_porcelain_executor_003
+        ammp_2_porcelain_executor_004
+        ammp_2_porcelain_executor_005
+        ammp_2_porcelain_executor_006
+        ammp_2_porcelain_executor_007
+        ammp_2_porcelain_executor_008
+        ammp_2_porcelain_executor_009
+        ammp_2_porcelain_executor_010
+        ammp_2_porcelain_executor_011
+        ammp_2_porcelain_executor_012
+        ammp_2_porcelain_executor_013
+        ammp_2_porcelain_executor_014
+        ammp_2_porcelain_executor_015
+        ammp_2_porcelain_executor_016
+        ammp_2_porcelain_executor_017
+        ammp_2_porcelain_executor_018
+        ammp_2_porcelain_executor_019
+        ammp_2_porcelain_executor_020
+        ammp_2_porcelain_executor_021
+        ammp_2_porcelain_executor_022
+        ammp_2_porcelain_executor_023
+        ammp_2_porcelain_executor_024
+        ammp_2_porcelain_executor_025
+        ammp_2_porcelain_executor_026
+        ammp_2_porcelain_executor_027
+        ammp_2_porcelain_executor_028
+        ammp_2_porcelain_executor_029
+        ammp_2_porcelain_executor_030
+        ammp_2_porcelain_executor_031
+        ammp_2_porcelain_executor_032
+        ammp_2_porcelain_executor_033
+        ammp_2_porcelain_executor_034
+        ammp_2_porcelain_executor_035
+        ammp_2_porcelain_executor_036
+        }
+      }
+    }
+  ruler = {
+    add = {
+      portraits = {
+        ammp_2_porcelain_executor_001
+        ammp_2_porcelain_executor_002
+        ammp_2_porcelain_executor_003
+        ammp_2_porcelain_executor_004
+        ammp_2_porcelain_executor_005
+        ammp_2_porcelain_executor_006
+        ammp_2_porcelain_executor_007
+        ammp_2_porcelain_executor_008
+        ammp_2_porcelain_executor_009
+        ammp_2_porcelain_executor_010
+        ammp_2_porcelain_executor_011
+        ammp_2_porcelain_executor_012
+        ammp_2_porcelain_executor_013
+        ammp_2_porcelain_executor_014
+        ammp_2_porcelain_executor_015
+        ammp_2_porcelain_executor_016
+        ammp_2_porcelain_executor_017
+        ammp_2_porcelain_executor_018
+        ammp_2_porcelain_executor_019
+        ammp_2_porcelain_executor_020
+        ammp_2_porcelain_executor_021
+        ammp_2_porcelain_executor_022
+        ammp_2_porcelain_executor_023
+        ammp_2_porcelain_executor_024
+        ammp_2_porcelain_executor_025
+        ammp_2_porcelain_executor_026
+        ammp_2_porcelain_executor_027
+        ammp_2_porcelain_executor_028
+        ammp_2_porcelain_executor_029
+        ammp_2_porcelain_executor_030
+        ammp_2_porcelain_executor_031
+        ammp_2_porcelain_executor_032
+        ammp_2_porcelain_executor_033
+        ammp_2_porcelain_executor_034
+        ammp_2_porcelain_executor_035
+        ammp_2_porcelain_executor_036
+        }
+      }
+    }
+  }
+}

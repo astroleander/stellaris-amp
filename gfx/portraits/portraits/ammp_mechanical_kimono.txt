@@ -1,0 +1,241 @@
+portraits = {
+	ammp_mechanical_kimono_001 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/00392-cornflowerStylizedAnime_11_3735929584.dds" }
+	ammp_mechanical_kimono_002 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/00393-cornflowerStylizedAnime_11_660624742.dds" }
+	ammp_mechanical_kimono_003 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmp0u1nx3ny.dds" }
+	ammp_mechanical_kimono_004 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmp22y0y41x.dds" }
+	ammp_mechanical_kimono_005 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmp2_o_44qx.dds" }
+	ammp_mechanical_kimono_006 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmp2iluh2f_.dds" }
+	ammp_mechanical_kimono_007 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmp3iwqx3ue.dds" }
+	ammp_mechanical_kimono_008 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmp5ty9a1r6.dds" }
+	ammp_mechanical_kimono_009 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmp7b22zarq.dds" }
+	ammp_mechanical_kimono_010 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmp83_tu5s8.dds" }
+	ammp_mechanical_kimono_011 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmp9416uj0z.dds" }
+	ammp_mechanical_kimono_012 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmp9alb77xw.dds" }
+	ammp_mechanical_kimono_013 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpa07dnc73.dds" }
+	ammp_mechanical_kimono_014 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpbsyv2srf.dds" }
+	ammp_mechanical_kimono_015 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpbymnfcqu.dds" }
+	ammp_mechanical_kimono_016 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpe1gpl00j.dds" }
+	ammp_mechanical_kimono_017 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpeckm8ws8.dds" }
+	ammp_mechanical_kimono_018 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpeh6v_b_u.dds" }
+	ammp_mechanical_kimono_019 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpg9br_h80.dds" }
+	ammp_mechanical_kimono_020 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpg_n2o4gc.dds" }
+	ammp_mechanical_kimono_021 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmphig61ao3.dds" }
+	ammp_mechanical_kimono_022 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpk7ep4gyy.dds" }
+	ammp_mechanical_kimono_023 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmplyku28er.dds" }
+	ammp_mechanical_kimono_024 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpnz4uiqrq.dds" }
+	ammp_mechanical_kimono_025 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmppyczoqi2.dds" }
+	ammp_mechanical_kimono_026 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmprpvhjxdn.dds" }
+	ammp_mechanical_kimono_027 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmprvbh6k0b.dds" }
+	ammp_mechanical_kimono_028 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpscfoqyos.dds" }
+	ammp_mechanical_kimono_029 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpu7pgpyxz.dds" }
+	ammp_mechanical_kimono_030 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpuhbbjimz.dds" }
+	ammp_mechanical_kimono_031 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpwfg9vng3.dds" }
+	ammp_mechanical_kimono_032 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpwpenjlw_.dds" }
+	ammp_mechanical_kimono_033 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpx_820g_t.dds" }
+	ammp_mechanical_kimono_034 = { texturefile = "gfx/models/portraits/ammp_mechanical_kimono/tmpyo9att07.dds" }
+}
+portrait_groups = {
+	ammp_mechanical_kimono = {
+		default = ammp_mechanical_kimono_001
+		game_setup = {
+			add = {
+				portraits = {
+					ammp_mechanical_kimono_001
+					ammp_mechanical_kimono_002
+					ammp_mechanical_kimono_003
+					ammp_mechanical_kimono_004
+					ammp_mechanical_kimono_005
+					ammp_mechanical_kimono_006
+					ammp_mechanical_kimono_007
+					ammp_mechanical_kimono_008
+					ammp_mechanical_kimono_009
+					ammp_mechanical_kimono_010
+					ammp_mechanical_kimono_011
+					ammp_mechanical_kimono_012
+					ammp_mechanical_kimono_013
+					ammp_mechanical_kimono_014
+					ammp_mechanical_kimono_015
+					ammp_mechanical_kimono_016
+					ammp_mechanical_kimono_017
+					ammp_mechanical_kimono_018
+					ammp_mechanical_kimono_019
+					ammp_mechanical_kimono_020
+					ammp_mechanical_kimono_021
+					ammp_mechanical_kimono_022
+					ammp_mechanical_kimono_023
+					ammp_mechanical_kimono_024
+					ammp_mechanical_kimono_025
+					ammp_mechanical_kimono_026
+					ammp_mechanical_kimono_027
+					ammp_mechanical_kimono_028
+					ammp_mechanical_kimono_029
+					ammp_mechanical_kimono_030
+					ammp_mechanical_kimono_031
+					ammp_mechanical_kimono_032
+					ammp_mechanical_kimono_033
+					ammp_mechanical_kimono_034
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					ammp_mechanical_kimono_001
+					ammp_mechanical_kimono_002
+					ammp_mechanical_kimono_003
+					ammp_mechanical_kimono_004
+					ammp_mechanical_kimono_005
+					ammp_mechanical_kimono_006
+					ammp_mechanical_kimono_007
+					ammp_mechanical_kimono_008
+					ammp_mechanical_kimono_009
+					ammp_mechanical_kimono_010
+					ammp_mechanical_kimono_011
+					ammp_mechanical_kimono_012
+					ammp_mechanical_kimono_013
+					ammp_mechanical_kimono_014
+					ammp_mechanical_kimono_015
+					ammp_mechanical_kimono_016
+					ammp_mechanical_kimono_017
+					ammp_mechanical_kimono_018
+					ammp_mechanical_kimono_019
+					ammp_mechanical_kimono_020
+					ammp_mechanical_kimono_021
+					ammp_mechanical_kimono_022
+					ammp_mechanical_kimono_023
+					ammp_mechanical_kimono_024
+					ammp_mechanical_kimono_025
+					ammp_mechanical_kimono_026
+					ammp_mechanical_kimono_027
+					ammp_mechanical_kimono_028
+					ammp_mechanical_kimono_029
+					ammp_mechanical_kimono_030
+					ammp_mechanical_kimono_031
+					ammp_mechanical_kimono_032
+					ammp_mechanical_kimono_033
+					ammp_mechanical_kimono_034
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					ammp_mechanical_kimono_001
+					ammp_mechanical_kimono_002
+					ammp_mechanical_kimono_003
+					ammp_mechanical_kimono_004
+					ammp_mechanical_kimono_005
+					ammp_mechanical_kimono_006
+					ammp_mechanical_kimono_007
+					ammp_mechanical_kimono_008
+					ammp_mechanical_kimono_009
+					ammp_mechanical_kimono_010
+					ammp_mechanical_kimono_011
+					ammp_mechanical_kimono_012
+					ammp_mechanical_kimono_013
+					ammp_mechanical_kimono_014
+					ammp_mechanical_kimono_015
+					ammp_mechanical_kimono_016
+					ammp_mechanical_kimono_017
+					ammp_mechanical_kimono_018
+					ammp_mechanical_kimono_019
+					ammp_mechanical_kimono_020
+					ammp_mechanical_kimono_021
+					ammp_mechanical_kimono_022
+					ammp_mechanical_kimono_023
+					ammp_mechanical_kimono_024
+					ammp_mechanical_kimono_025
+					ammp_mechanical_kimono_026
+					ammp_mechanical_kimono_027
+					ammp_mechanical_kimono_028
+					ammp_mechanical_kimono_029
+					ammp_mechanical_kimono_030
+					ammp_mechanical_kimono_031
+					ammp_mechanical_kimono_032
+					ammp_mechanical_kimono_033
+					ammp_mechanical_kimono_034
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					ammp_mechanical_kimono_001
+					ammp_mechanical_kimono_002
+					ammp_mechanical_kimono_003
+					ammp_mechanical_kimono_004
+					ammp_mechanical_kimono_005
+					ammp_mechanical_kimono_006
+					ammp_mechanical_kimono_007
+					ammp_mechanical_kimono_008
+					ammp_mechanical_kimono_009
+					ammp_mechanical_kimono_010
+					ammp_mechanical_kimono_011
+					ammp_mechanical_kimono_012
+					ammp_mechanical_kimono_013
+					ammp_mechanical_kimono_014
+					ammp_mechanical_kimono_015
+					ammp_mechanical_kimono_016
+					ammp_mechanical_kimono_017
+					ammp_mechanical_kimono_018
+					ammp_mechanical_kimono_019
+					ammp_mechanical_kimono_020
+					ammp_mechanical_kimono_021
+					ammp_mechanical_kimono_022
+					ammp_mechanical_kimono_023
+					ammp_mechanical_kimono_024
+					ammp_mechanical_kimono_025
+					ammp_mechanical_kimono_026
+					ammp_mechanical_kimono_027
+					ammp_mechanical_kimono_028
+					ammp_mechanical_kimono_029
+					ammp_mechanical_kimono_030
+					ammp_mechanical_kimono_031
+					ammp_mechanical_kimono_032
+					ammp_mechanical_kimono_033
+					ammp_mechanical_kimono_034
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					ammp_mechanical_kimono_001
+					ammp_mechanical_kimono_002
+					ammp_mechanical_kimono_003
+					ammp_mechanical_kimono_004
+					ammp_mechanical_kimono_005
+					ammp_mechanical_kimono_006
+					ammp_mechanical_kimono_007
+					ammp_mechanical_kimono_008
+					ammp_mechanical_kimono_009
+					ammp_mechanical_kimono_010
+					ammp_mechanical_kimono_011
+					ammp_mechanical_kimono_012
+					ammp_mechanical_kimono_013
+					ammp_mechanical_kimono_014
+					ammp_mechanical_kimono_015
+					ammp_mechanical_kimono_016
+					ammp_mechanical_kimono_017
+					ammp_mechanical_kimono_018
+					ammp_mechanical_kimono_019
+					ammp_mechanical_kimono_020
+					ammp_mechanical_kimono_021
+					ammp_mechanical_kimono_022
+					ammp_mechanical_kimono_023
+					ammp_mechanical_kimono_024
+					ammp_mechanical_kimono_025
+					ammp_mechanical_kimono_026
+					ammp_mechanical_kimono_027
+					ammp_mechanical_kimono_028
+					ammp_mechanical_kimono_029
+					ammp_mechanical_kimono_030
+					ammp_mechanical_kimono_031
+					ammp_mechanical_kimono_032
+					ammp_mechanical_kimono_033
+					ammp_mechanical_kimono_034
+				}
+			}
+		}
+	}
+}

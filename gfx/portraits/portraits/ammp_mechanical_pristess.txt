@@ -1,0 +1,157 @@
+portraits = {
+	ammp_mechanical_pristess_001 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/02095.dds" }
+	ammp_mechanical_pristess_002 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/addon1.dds" }
+	ammp_mechanical_pristess_003 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/bk.dds" }
+	ammp_mechanical_pristess_004 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmp00xkn37o.dds" }
+	ammp_mechanical_pristess_005 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmp07z_u9bb.dds" }
+	ammp_mechanical_pristess_006 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmp0ikmcbcx.dds" }
+	ammp_mechanical_pristess_007 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmp4fnb4zc9.dds" }
+	ammp_mechanical_pristess_008 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmp4se8k3ef.dds" }
+	ammp_mechanical_pristess_009 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmp4tc834a_.dds" }
+	ammp_mechanical_pristess_010 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmp6ut2qi9g.dds" }
+	ammp_mechanical_pristess_011 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmp7jx1biwg.dds" }
+	ammp_mechanical_pristess_012 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmpbaxcwmts.dds" }
+	ammp_mechanical_pristess_013 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmpe_kyoa0_.dds" }
+	ammp_mechanical_pristess_014 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmpinci59oz.dds" }
+	ammp_mechanical_pristess_015 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmpjfb40jxf.dds" }
+	ammp_mechanical_pristess_016 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmpmnussu5n.dds" }
+	ammp_mechanical_pristess_017 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmpr1t_1f8p.dds" }
+	ammp_mechanical_pristess_018 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmpubibf9zz.dds" }
+	ammp_mechanical_pristess_019 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmpv59p8sns.dds" }
+	ammp_mechanical_pristess_020 = { texturefile = "gfx/models/portraits/ammp_mechanical_pristess/tmpwa4pqdrv.dds" }
+}
+portrait_groups = {
+	ammp_mechanical_pristess = {
+		default = ammp_mechanical_pristess_001
+		game_setup = {
+			add = {
+				portraits = {
+					ammp_mechanical_pristess_001
+					ammp_mechanical_pristess_002
+					ammp_mechanical_pristess_003
+					ammp_mechanical_pristess_004
+					ammp_mechanical_pristess_005
+					ammp_mechanical_pristess_006
+					ammp_mechanical_pristess_007
+					ammp_mechanical_pristess_008
+					ammp_mechanical_pristess_009
+					ammp_mechanical_pristess_010
+					ammp_mechanical_pristess_011
+					ammp_mechanical_pristess_012
+					ammp_mechanical_pristess_013
+					ammp_mechanical_pristess_014
+					ammp_mechanical_pristess_015
+					ammp_mechanical_pristess_016
+					ammp_mechanical_pristess_017
+					ammp_mechanical_pristess_018
+					ammp_mechanical_pristess_019
+					ammp_mechanical_pristess_020
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					ammp_mechanical_pristess_001
+					ammp_mechanical_pristess_002
+					ammp_mechanical_pristess_003
+					ammp_mechanical_pristess_004
+					ammp_mechanical_pristess_005
+					ammp_mechanical_pristess_006
+					ammp_mechanical_pristess_007
+					ammp_mechanical_pristess_008
+					ammp_mechanical_pristess_009
+					ammp_mechanical_pristess_010
+					ammp_mechanical_pristess_011
+					ammp_mechanical_pristess_012
+					ammp_mechanical_pristess_013
+					ammp_mechanical_pristess_014
+					ammp_mechanical_pristess_015
+					ammp_mechanical_pristess_016
+					ammp_mechanical_pristess_017
+					ammp_mechanical_pristess_018
+					ammp_mechanical_pristess_019
+					ammp_mechanical_pristess_020
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					ammp_mechanical_pristess_001
+					ammp_mechanical_pristess_002
+					ammp_mechanical_pristess_003
+					ammp_mechanical_pristess_004
+					ammp_mechanical_pristess_005
+					ammp_mechanical_pristess_006
+					ammp_mechanical_pristess_007
+					ammp_mechanical_pristess_008
+					ammp_mechanical_pristess_009
+					ammp_mechanical_pristess_010
+					ammp_mechanical_pristess_011
+					ammp_mechanical_pristess_012
+					ammp_mechanical_pristess_013
+					ammp_mechanical_pristess_014
+					ammp_mechanical_pristess_015
+					ammp_mechanical_pristess_016
+					ammp_mechanical_pristess_017
+					ammp_mechanical_pristess_018
+					ammp_mechanical_pristess_019
+					ammp_mechanical_pristess_020
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					ammp_mechanical_pristess_001
+					ammp_mechanical_pristess_002
+					ammp_mechanical_pristess_003
+					ammp_mechanical_pristess_004
+					ammp_mechanical_pristess_005
+					ammp_mechanical_pristess_006
+					ammp_mechanical_pristess_007
+					ammp_mechanical_pristess_008
+					ammp_mechanical_pristess_009
+					ammp_mechanical_pristess_010
+					ammp_mechanical_pristess_011
+					ammp_mechanical_pristess_012
+					ammp_mechanical_pristess_013
+					ammp_mechanical_pristess_014
+					ammp_mechanical_pristess_015
+					ammp_mechanical_pristess_016
+					ammp_mechanical_pristess_017
+					ammp_mechanical_pristess_018
+					ammp_mechanical_pristess_019
+					ammp_mechanical_pristess_020
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					ammp_mechanical_pristess_001
+					ammp_mechanical_pristess_002
+					ammp_mechanical_pristess_003
+					ammp_mechanical_pristess_004
+					ammp_mechanical_pristess_005
+					ammp_mechanical_pristess_006
+					ammp_mechanical_pristess_007
+					ammp_mechanical_pristess_008
+					ammp_mechanical_pristess_009
+					ammp_mechanical_pristess_010
+					ammp_mechanical_pristess_011
+					ammp_mechanical_pristess_012
+					ammp_mechanical_pristess_013
+					ammp_mechanical_pristess_014
+					ammp_mechanical_pristess_015
+					ammp_mechanical_pristess_016
+					ammp_mechanical_pristess_017
+					ammp_mechanical_pristess_018
+					ammp_mechanical_pristess_019
+					ammp_mechanical_pristess_020
+				}
+			}
+		}
+	}
+}

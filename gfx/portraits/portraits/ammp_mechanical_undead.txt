@@ -1,0 +1,205 @@
+portraits = {
+	ammp_mechanical_undead_001 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/undead02088.dds" }
+	ammp_mechanical_undead_002 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/undead02089.dds" }
+	ammp_mechanical_undead_003 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmp1g4z284r.dds" }
+	ammp_mechanical_undead_004 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmp1m8gua_b.dds" }
+	ammp_mechanical_undead_005 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmp4gqf8byt.dds" }
+	ammp_mechanical_undead_006 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmp5aktdz9q.dds" }
+	ammp_mechanical_undead_007 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmp6h3rctwr.dds" }
+	ammp_mechanical_undead_008 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmp76zttrtw.dds" }
+	ammp_mechanical_undead_009 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpbp3spx5o.dds" }
+	ammp_mechanical_undead_010 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpcel0llgo.dds" }
+	ammp_mechanical_undead_011 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpe4_o619n.dds" }
+	ammp_mechanical_undead_012 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpfwi38wg9.dds" }
+	ammp_mechanical_undead_013 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpi06zi1ng.dds" }
+	ammp_mechanical_undead_014 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpiehgjhfm.dds" }
+	ammp_mechanical_undead_015 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpitb3zrnz.dds" }
+	ammp_mechanical_undead_016 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpj7knsxgk.dds" }
+	ammp_mechanical_undead_017 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpjqqdl6_i.dds" }
+	ammp_mechanical_undead_018 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpkjg9zw9o.dds" }
+	ammp_mechanical_undead_019 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmplrvgtcr5.dds" }
+	ammp_mechanical_undead_020 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpnw8igrtm.dds" }
+	ammp_mechanical_undead_021 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpo3zdpvo3.dds" }
+	ammp_mechanical_undead_022 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpoyeusy6n.dds" }
+	ammp_mechanical_undead_023 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpqismm_i8.dds" }
+	ammp_mechanical_undead_024 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpr72gmzkd.dds" }
+	ammp_mechanical_undead_025 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpu4oq2c9g.dds" }
+	ammp_mechanical_undead_026 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpxx05evqu.dds" }
+	ammp_mechanical_undead_027 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpzdtkzvhq.dds" }
+	ammp_mechanical_undead_028 = { texturefile = "gfx/models/portraits/ammp_mechanical_undead/tmpznnekwf0.dds" }
+}
+portrait_groups = {
+	ammp_mechanical_undead = {
+		default = ammp_mechanical_undead_019
+		game_setup = {
+			add = {
+				portraits = {
+					ammp_mechanical_undead_001
+					ammp_mechanical_undead_002
+					ammp_mechanical_undead_003
+					ammp_mechanical_undead_004
+					ammp_mechanical_undead_005
+					ammp_mechanical_undead_006
+					ammp_mechanical_undead_007
+					ammp_mechanical_undead_008
+					ammp_mechanical_undead_009
+					ammp_mechanical_undead_010
+					ammp_mechanical_undead_011
+					ammp_mechanical_undead_012
+					ammp_mechanical_undead_013
+					ammp_mechanical_undead_014
+					ammp_mechanical_undead_015
+					ammp_mechanical_undead_016
+					ammp_mechanical_undead_017
+					ammp_mechanical_undead_018
+					ammp_mechanical_undead_019
+					ammp_mechanical_undead_020
+					ammp_mechanical_undead_021
+					ammp_mechanical_undead_022
+					ammp_mechanical_undead_023
+					ammp_mechanical_undead_024
+					ammp_mechanical_undead_025
+					ammp_mechanical_undead_026
+					ammp_mechanical_undead_027
+					ammp_mechanical_undead_028
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					ammp_mechanical_undead_001
+					ammp_mechanical_undead_002
+					ammp_mechanical_undead_003
+					ammp_mechanical_undead_004
+					ammp_mechanical_undead_005
+					ammp_mechanical_undead_006
+					ammp_mechanical_undead_007
+					ammp_mechanical_undead_008
+					ammp_mechanical_undead_009
+					ammp_mechanical_undead_010
+					ammp_mechanical_undead_011
+					ammp_mechanical_undead_012
+					ammp_mechanical_undead_013
+					ammp_mechanical_undead_014
+					ammp_mechanical_undead_015
+					ammp_mechanical_undead_016
+					ammp_mechanical_undead_017
+					ammp_mechanical_undead_018
+					ammp_mechanical_undead_019
+					ammp_mechanical_undead_020
+					ammp_mechanical_undead_021
+					ammp_mechanical_undead_022
+					ammp_mechanical_undead_023
+					ammp_mechanical_undead_024
+					ammp_mechanical_undead_025
+					ammp_mechanical_undead_026
+					ammp_mechanical_undead_027
+					ammp_mechanical_undead_028
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					ammp_mechanical_undead_001
+					ammp_mechanical_undead_002
+					ammp_mechanical_undead_003
+					ammp_mechanical_undead_004
+					ammp_mechanical_undead_005
+					ammp_mechanical_undead_006
+					ammp_mechanical_undead_007
+					ammp_mechanical_undead_008
+					ammp_mechanical_undead_009
+					ammp_mechanical_undead_010
+					ammp_mechanical_undead_011
+					ammp_mechanical_undead_012
+					ammp_mechanical_undead_013
+					ammp_mechanical_undead_014
+					ammp_mechanical_undead_015
+					ammp_mechanical_undead_016
+					ammp_mechanical_undead_017
+					ammp_mechanical_undead_018
+					ammp_mechanical_undead_019
+					ammp_mechanical_undead_020
+					ammp_mechanical_undead_021
+					ammp_mechanical_undead_022
+					ammp_mechanical_undead_023
+					ammp_mechanical_undead_024
+					ammp_mechanical_undead_025
+					ammp_mechanical_undead_026
+					ammp_mechanical_undead_027
+					ammp_mechanical_undead_028
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					ammp_mechanical_undead_001
+					ammp_mechanical_undead_002
+					ammp_mechanical_undead_003
+					ammp_mechanical_undead_004
+					ammp_mechanical_undead_005
+					ammp_mechanical_undead_006
+					ammp_mechanical_undead_007
+					ammp_mechanical_undead_008
+					ammp_mechanical_undead_009
+					ammp_mechanical_undead_010
+					ammp_mechanical_undead_011
+					ammp_mechanical_undead_012
+					ammp_mechanical_undead_013
+					ammp_mechanical_undead_014
+					ammp_mechanical_undead_015
+					ammp_mechanical_undead_016
+					ammp_mechanical_undead_017
+					ammp_mechanical_undead_018
+					ammp_mechanical_undead_019
+					ammp_mechanical_undead_020
+					ammp_mechanical_undead_021
+					ammp_mechanical_undead_022
+					ammp_mechanical_undead_023
+					ammp_mechanical_undead_024
+					ammp_mechanical_undead_025
+					ammp_mechanical_undead_026
+					ammp_mechanical_undead_027
+					ammp_mechanical_undead_028
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					ammp_mechanical_undead_001
+					ammp_mechanical_undead_002
+					ammp_mechanical_undead_003
+					ammp_mechanical_undead_004
+					ammp_mechanical_undead_005
+					ammp_mechanical_undead_006
+					ammp_mechanical_undead_007
+					ammp_mechanical_undead_008
+					ammp_mechanical_undead_009
+					ammp_mechanical_undead_010
+					ammp_mechanical_undead_011
+					ammp_mechanical_undead_012
+					ammp_mechanical_undead_013
+					ammp_mechanical_undead_014
+					ammp_mechanical_undead_015
+					ammp_mechanical_undead_016
+					ammp_mechanical_undead_017
+					ammp_mechanical_undead_018
+					ammp_mechanical_undead_019
+					ammp_mechanical_undead_020
+					ammp_mechanical_undead_021
+					ammp_mechanical_undead_022
+					ammp_mechanical_undead_023
+					ammp_mechanical_undead_024
+					ammp_mechanical_undead_025
+					ammp_mechanical_undead_026
+					ammp_mechanical_undead_027
+					ammp_mechanical_undead_028
+				}
+			}
+		}
+	}
+}

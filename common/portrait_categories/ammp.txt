@@ -1,0 +1,18 @@
+machines = {
+	name = MACHINE
+	sets = {
+		ammp_machine
+	}
+}
+
+cybernetics = {
+	sets = {
+		ammp_cybernetic
+	}
+}
+
+synthetics = {
+	sets = {
+		ammp_synthetic
+	}
+}

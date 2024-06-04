@@ -1,0 +1,229 @@
+portraits = {
+	ammp_mechanical_maid_001 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/00418-cornflowerStylizedAnime_11_1720684706.dds" }
+	ammp_mechanical_maid_002 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/00421-cornflowerStylizedAnime_11_1486566705.dds" }
+	ammp_mechanical_maid_003 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmp0fmxv24d.dds" }
+	ammp_mechanical_maid_004 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmp1dhdwvwl.dds" }
+	ammp_mechanical_maid_005 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmp2e92pcid.dds" }
+	ammp_mechanical_maid_006 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmp38mx9h75.dds" }
+	ammp_mechanical_maid_007 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmp8wmprpqu.dds" }
+	ammp_mechanical_maid_008 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmp9rsbklg9.dds" }
+	ammp_mechanical_maid_009 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmp9t7uzgi_.dds" }
+	ammp_mechanical_maid_010 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpa8lvphjz.dds" }
+	ammp_mechanical_maid_011 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpb2t1bkxa.dds" }
+	ammp_mechanical_maid_012 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpb7i01zvn.dds" }
+	ammp_mechanical_maid_013 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpcpn0hfyr.dds" }
+	ammp_mechanical_maid_014 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpeacdcd9a.dds" }
+	ammp_mechanical_maid_015 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpfhscch0t.dds" }
+	ammp_mechanical_maid_016 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpfisju9h5.dds" }
+	ammp_mechanical_maid_017 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpgc2tonjw.dds" }
+	ammp_mechanical_maid_018 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpgw18mqf8.dds" }
+	ammp_mechanical_maid_019 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpje48gsdn.dds" }
+	ammp_mechanical_maid_020 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpk7_xthr2.dds" }
+	ammp_mechanical_maid_021 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmplfoq9opu.dds" }
+	ammp_mechanical_maid_022 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmplsb41g8i.dds" }
+	ammp_mechanical_maid_023 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpm323vbzp.dds" }
+	ammp_mechanical_maid_024 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpp3gywij_.dds" }
+	ammp_mechanical_maid_025 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpqkjjtn0h.dds" }
+	ammp_mechanical_maid_026 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmprd2qqwfi.dds" }
+	ammp_mechanical_maid_027 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmprdmykxhy.dds" }
+	ammp_mechanical_maid_028 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmprhsuvu9c.dds" }
+	ammp_mechanical_maid_029 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmps0rp4n9o.dds" }
+	ammp_mechanical_maid_030 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpv3dciwyv.dds" }
+	ammp_mechanical_maid_031 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpx5cs_1wc.dds" }
+	ammp_mechanical_maid_032 = { texturefile = "gfx/models/portraits/ammp_mechanical_maid/tmpyre7_hl0.dds" }
+}
+portrait_groups = {
+	ammp_mechanical_maid = {
+		default = ammp_mechanical_maid_001
+		game_setup = {
+			add = {
+				portraits = {
+					ammp_mechanical_maid_001
+					ammp_mechanical_maid_002
+					ammp_mechanical_maid_003
+					ammp_mechanical_maid_004
+					ammp_mechanical_maid_005
+					ammp_mechanical_maid_006
+					ammp_mechanical_maid_007
+					ammp_mechanical_maid_008
+					ammp_mechanical_maid_009
+					ammp_mechanical_maid_010
+					ammp_mechanical_maid_011
+					ammp_mechanical_maid_012
+					ammp_mechanical_maid_013
+					ammp_mechanical_maid_014
+					ammp_mechanical_maid_015
+					ammp_mechanical_maid_016
+					ammp_mechanical_maid_017
+					ammp_mechanical_maid_018
+					ammp_mechanical_maid_019
+					ammp_mechanical_maid_020
+					ammp_mechanical_maid_021
+					ammp_mechanical_maid_022
+					ammp_mechanical_maid_023
+					ammp_mechanical_maid_024
+					ammp_mechanical_maid_025
+					ammp_mechanical_maid_026
+					ammp_mechanical_maid_027
+					ammp_mechanical_maid_028
+					ammp_mechanical_maid_029
+					ammp_mechanical_maid_030
+					ammp_mechanical_maid_031
+					ammp_mechanical_maid_032
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					ammp_mechanical_maid_001
+					ammp_mechanical_maid_002
+					ammp_mechanical_maid_003
+					ammp_mechanical_maid_004
+					ammp_mechanical_maid_005
+					ammp_mechanical_maid_006
+					ammp_mechanical_maid_007
+					ammp_mechanical_maid_008
+					ammp_mechanical_maid_009
+					ammp_mechanical_maid_010
+					ammp_mechanical_maid_011
+					ammp_mechanical_maid_012
+					ammp_mechanical_maid_013
+					ammp_mechanical_maid_014
+					ammp_mechanical_maid_015
+					ammp_mechanical_maid_016
+					ammp_mechanical_maid_017
+					ammp_mechanical_maid_018
+					ammp_mechanical_maid_019
+					ammp_mechanical_maid_020
+					ammp_mechanical_maid_021
+					ammp_mechanical_maid_022
+					ammp_mechanical_maid_023
+					ammp_mechanical_maid_024
+					ammp_mechanical_maid_025
+					ammp_mechanical_maid_026
+					ammp_mechanical_maid_027
+					ammp_mechanical_maid_028
+					ammp_mechanical_maid_029
+					ammp_mechanical_maid_030
+					ammp_mechanical_maid_031
+					ammp_mechanical_maid_032
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					ammp_mechanical_maid_001
+					ammp_mechanical_maid_002
+					ammp_mechanical_maid_003
+					ammp_mechanical_maid_004
+					ammp_mechanical_maid_005
+					ammp_mechanical_maid_006
+					ammp_mechanical_maid_007
+					ammp_mechanical_maid_008
+					ammp_mechanical_maid_009
+					ammp_mechanical_maid_010
+					ammp_mechanical_maid_011
+					ammp_mechanical_maid_012
+					ammp_mechanical_maid_013
+					ammp_mechanical_maid_014
+					ammp_mechanical_maid_015
+					ammp_mechanical_maid_016
+					ammp_mechanical_maid_017
+					ammp_mechanical_maid_018
+					ammp_mechanical_maid_019
+					ammp_mechanical_maid_020
+					ammp_mechanical_maid_021
+					ammp_mechanical_maid_022
+					ammp_mechanical_maid_023
+					ammp_mechanical_maid_024
+					ammp_mechanical_maid_025
+					ammp_mechanical_maid_026
+					ammp_mechanical_maid_027
+					ammp_mechanical_maid_028
+					ammp_mechanical_maid_029
+					ammp_mechanical_maid_030
+					ammp_mechanical_maid_031
+					ammp_mechanical_maid_032
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					ammp_mechanical_maid_001
+					ammp_mechanical_maid_002
+					ammp_mechanical_maid_003
+					ammp_mechanical_maid_004
+					ammp_mechanical_maid_005
+					ammp_mechanical_maid_006
+					ammp_mechanical_maid_007
+					ammp_mechanical_maid_008
+					ammp_mechanical_maid_009
+					ammp_mechanical_maid_010
+					ammp_mechanical_maid_011
+					ammp_mechanical_maid_012
+					ammp_mechanical_maid_013
+					ammp_mechanical_maid_014
+					ammp_mechanical_maid_015
+					ammp_mechanical_maid_016
+					ammp_mechanical_maid_017
+					ammp_mechanical_maid_018
+					ammp_mechanical_maid_019
+					ammp_mechanical_maid_020
+					ammp_mechanical_maid_021
+					ammp_mechanical_maid_022
+					ammp_mechanical_maid_023
+					ammp_mechanical_maid_024
+					ammp_mechanical_maid_025
+					ammp_mechanical_maid_026
+					ammp_mechanical_maid_027
+					ammp_mechanical_maid_028
+					ammp_mechanical_maid_029
+					ammp_mechanical_maid_030
+					ammp_mechanical_maid_031
+					ammp_mechanical_maid_032
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					ammp_mechanical_maid_001
+					ammp_mechanical_maid_002
+					ammp_mechanical_maid_003
+					ammp_mechanical_maid_004
+					ammp_mechanical_maid_005
+					ammp_mechanical_maid_006
+					ammp_mechanical_maid_007
+					ammp_mechanical_maid_008
+					ammp_mechanical_maid_009
+					ammp_mechanical_maid_010
+					ammp_mechanical_maid_011
+					ammp_mechanical_maid_012
+					ammp_mechanical_maid_013
+					ammp_mechanical_maid_014
+					ammp_mechanical_maid_015
+					ammp_mechanical_maid_016
+					ammp_mechanical_maid_017
+					ammp_mechanical_maid_018
+					ammp_mechanical_maid_019
+					ammp_mechanical_maid_020
+					ammp_mechanical_maid_021
+					ammp_mechanical_maid_022
+					ammp_mechanical_maid_023
+					ammp_mechanical_maid_024
+					ammp_mechanical_maid_025
+					ammp_mechanical_maid_026
+					ammp_mechanical_maid_027
+					ammp_mechanical_maid_028
+					ammp_mechanical_maid_029
+					ammp_mechanical_maid_030
+					ammp_mechanical_maid_031
+					ammp_mechanical_maid_032
+				}
+			}
+		}
+	}
+}

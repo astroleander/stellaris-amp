@@ -1,0 +1,151 @@
+portraits = {
+	ammp_mechanical_abnormal_001 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/02076.dds" }
+	ammp_mechanical_abnormal_002 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmp2o_wd9hm.dds" }
+	ammp_mechanical_abnormal_003 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmp46td3oty.dds" }
+	ammp_mechanical_abnormal_004 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmp4dmmweyu.dds" }
+	ammp_mechanical_abnormal_005 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmp4g0qb04r.dds" }
+	ammp_mechanical_abnormal_006 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmp8fzfi_3_.dds" }
+	ammp_mechanical_abnormal_007 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmpdf65gam6.dds" }
+	ammp_mechanical_abnormal_008 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmpdse_37fd.dds" }
+	ammp_mechanical_abnormal_009 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmpf7r9h7pv.dds" }
+	ammp_mechanical_abnormal_010 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmpg6xmh0qn.dds" }
+	ammp_mechanical_abnormal_011 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmpgarjd70a.dds" }
+	ammp_mechanical_abnormal_012 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmpn9w8k6_f.dds" }
+	ammp_mechanical_abnormal_013 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmpnjytdxme.dds" }
+	ammp_mechanical_abnormal_014 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmpo17063pg.dds" }
+	ammp_mechanical_abnormal_015 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmpueu4ju_4.dds" }
+	ammp_mechanical_abnormal_016 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmpul5p9fxm.dds" }
+	ammp_mechanical_abnormal_017 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmpvbeaz5zh.dds" }
+	ammp_mechanical_abnormal_018 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tmpw44_dbfp.dds" }
+	ammp_mechanical_abnormal_019 = { texturefile = "gfx/models/portraits/ammp_mechanical_abnormal/tt.dds" }
+}
+portrait_groups = {
+	ammp_mechanical_abnormal = {
+		default = ammp_mechanical_abnormal_009
+		game_setup = {
+			add = {
+				portraits = {
+					ammp_mechanical_abnormal_001
+					ammp_mechanical_abnormal_002
+					ammp_mechanical_abnormal_003
+					ammp_mechanical_abnormal_004
+					ammp_mechanical_abnormal_005
+					ammp_mechanical_abnormal_006
+					ammp_mechanical_abnormal_007
+					ammp_mechanical_abnormal_008
+					ammp_mechanical_abnormal_009
+					ammp_mechanical_abnormal_010
+					ammp_mechanical_abnormal_011
+					ammp_mechanical_abnormal_012
+					ammp_mechanical_abnormal_013
+					ammp_mechanical_abnormal_014
+					ammp_mechanical_abnormal_015
+					ammp_mechanical_abnormal_016
+					ammp_mechanical_abnormal_017
+					ammp_mechanical_abnormal_018
+					ammp_mechanical_abnormal_019
+				}
+			}
+		}
+		species = {
+			add = {
+				portraits = {
+					ammp_mechanical_abnormal_001
+					ammp_mechanical_abnormal_002
+					ammp_mechanical_abnormal_003
+					ammp_mechanical_abnormal_004
+					ammp_mechanical_abnormal_005
+					ammp_mechanical_abnormal_006
+					ammp_mechanical_abnormal_007
+					ammp_mechanical_abnormal_008
+					ammp_mechanical_abnormal_009
+					ammp_mechanical_abnormal_010
+					ammp_mechanical_abnormal_011
+					ammp_mechanical_abnormal_012
+					ammp_mechanical_abnormal_013
+					ammp_mechanical_abnormal_014
+					ammp_mechanical_abnormal_015
+					ammp_mechanical_abnormal_016
+					ammp_mechanical_abnormal_017
+					ammp_mechanical_abnormal_018
+					ammp_mechanical_abnormal_019
+				}
+			}
+		}
+		pop = {
+			add = {
+				portraits = {
+					ammp_mechanical_abnormal_001
+					ammp_mechanical_abnormal_002
+					ammp_mechanical_abnormal_003
+					ammp_mechanical_abnormal_004
+					ammp_mechanical_abnormal_005
+					ammp_mechanical_abnormal_006
+					ammp_mechanical_abnormal_007
+					ammp_mechanical_abnormal_008
+					ammp_mechanical_abnormal_009
+					ammp_mechanical_abnormal_010
+					ammp_mechanical_abnormal_011
+					ammp_mechanical_abnormal_012
+					ammp_mechanical_abnormal_013
+					ammp_mechanical_abnormal_014
+					ammp_mechanical_abnormal_015
+					ammp_mechanical_abnormal_016
+					ammp_mechanical_abnormal_017
+					ammp_mechanical_abnormal_018
+					ammp_mechanical_abnormal_019
+				}
+			}
+		}
+		leader = {
+			add = {
+				portraits = {
+					ammp_mechanical_abnormal_001
+					ammp_mechanical_abnormal_002
+					ammp_mechanical_abnormal_003
+					ammp_mechanical_abnormal_004
+					ammp_mechanical_abnormal_005
+					ammp_mechanical_abnormal_006
+					ammp_mechanical_abnormal_007
+					ammp_mechanical_abnormal_008
+					ammp_mechanical_abnormal_009
+					ammp_mechanical_abnormal_010
+					ammp_mechanical_abnormal_011
+					ammp_mechanical_abnormal_012
+					ammp_mechanical_abnormal_013
+					ammp_mechanical_abnormal_014
+					ammp_mechanical_abnormal_015
+					ammp_mechanical_abnormal_016
+					ammp_mechanical_abnormal_017
+					ammp_mechanical_abnormal_018
+					ammp_mechanical_abnormal_019
+				}
+			}
+		}
+		ruler = {
+			add = {
+				portraits = {
+					ammp_mechanical_abnormal_001
+					ammp_mechanical_abnormal_002
+					ammp_mechanical_abnormal_003
+					ammp_mechanical_abnormal_004
+					ammp_mechanical_abnormal_005
+					ammp_mechanical_abnormal_006
+					ammp_mechanical_abnormal_007
+					ammp_mechanical_abnormal_008
+					ammp_mechanical_abnormal_009
+					ammp_mechanical_abnormal_010
+					ammp_mechanical_abnormal_011
+					ammp_mechanical_abnormal_012
+					ammp_mechanical_abnormal_013
+					ammp_mechanical_abnormal_014
+					ammp_mechanical_abnormal_015
+					ammp_mechanical_abnormal_016
+					ammp_mechanical_abnormal_017
+					ammp_mechanical_abnormal_018
+					ammp_mechanical_abnormal_019
+				}
+			}
+		}
+	}
+}
