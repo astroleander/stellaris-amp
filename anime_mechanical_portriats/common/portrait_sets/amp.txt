@@ -1,4 +1,4 @@
-ammp_machine = {
+amp_machine = {
 	species_class = MACHINE
 
 	conditional_portraits = {
@@ -21,7 +21,7 @@ ammp_machine = {
 }
 
 # robot is not in the categories list
-ammp_robot = {
+amp_robot = {
 	species_class = ROBOT
 
 	conditional_portraits = {
@@ -43,7 +43,7 @@ ammp_robot = {
 	}
 }
 
-ammp_cybernetic = {
+amp_cybernetic = {
 	species_class = CYBERNETIC
 
 	conditional_portraits = {
@@ -65,7 +65,7 @@ ammp_cybernetic = {
 	}
 }
 
-ammmp_synthetics = {
+amp_synthetics = {
 	species_class = SYNTH
 
 	conditional_portraits = {

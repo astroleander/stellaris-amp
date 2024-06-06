@@ -1,18 +1,18 @@
 machines = {
 	name = MACHINE
 	sets = {
-		ammp_machine
+		amp_machine
 	}
 }
 
 cybernetics = {
 	sets = {
-		ammp_cybernetic
+		amp_cybernetic
 	}
 }
 
 synthetics = {
 	sets = {
-		ammp_synthetic
+		amp_synthetic
 	}
 }
