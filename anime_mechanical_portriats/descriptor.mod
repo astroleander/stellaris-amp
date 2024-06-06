@@ -1,4 +1,4 @@
-version="0.04"
+version="1.00"
 tags={
 	"Species"
 }
