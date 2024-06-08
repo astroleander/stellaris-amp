@@ -5,6 +5,9 @@
   "engines": {
     "node": ">=21.0.0"
   },
+	"scripts": {
+		"start": "tsx generate_portraits_portraits.ts"
+	},
 	"devDependencies": {
 		"@types/node": "^20.14.1",
 		"tsx": "^4.11.2",

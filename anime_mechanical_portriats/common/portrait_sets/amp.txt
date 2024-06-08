@@ -16,6 +16,7 @@ ammp_machine = {
 			"ammp_mechanical_undead"
 			"ammp_school_uniform"
 			"ammp_2_porcelain_executor"
+			"amp_2_cult_auto_emecc"
 		}
 	}
 }
@@ -39,6 +40,7 @@ ammp_robot = {
 			"ammp_mechanical_undead"
 			"ammp_school_uniform"
 			"ammp_2_porcelain_executor"
+			"amp_2_cult_auto_emecc"
 		}
 	}
 }
@@ -61,6 +63,7 @@ ammp_cybernetic = {
 			"ammp_mechanical_undead"
 			"ammp_school_uniform"
 			"ammp_2_porcelain_executor"
+			"amp_2_cult_auto_emecc"
 		}
 	}
 }
@@ -83,6 +86,7 @@ ammp_synthetics = {
 			"ammp_mechanical_undead"
 			"ammp_school_uniform"
 			"ammp_2_porcelain_executor"
+			"amp_2_cult_auto_emecc"
 		}
 	}
 }

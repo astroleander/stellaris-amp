@@ -1,0 +1,320 @@
+
+portraits = {
+  amp_2_cult_auto_emecc_001 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00002.png" }
+  amp_2_cult_auto_emecc_002 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00006.png" }
+  amp_2_cult_auto_emecc_003 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00009.png" }
+  amp_2_cult_auto_emecc_004 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00010.png" }
+  amp_2_cult_auto_emecc_005 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00014.png" }
+  amp_2_cult_auto_emecc_006 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00015.png" }
+  amp_2_cult_auto_emecc_007 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00017.png" }
+  amp_2_cult_auto_emecc_008 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00018.png" }
+  amp_2_cult_auto_emecc_009 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00020.png" }
+  amp_2_cult_auto_emecc_010 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00021.png" }
+  amp_2_cult_auto_emecc_011 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00023.png" }
+  amp_2_cult_auto_emecc_012 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00024.png" }
+  amp_2_cult_auto_emecc_013 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00025.png" }
+  amp_2_cult_auto_emecc_014 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00027.png" }
+  amp_2_cult_auto_emecc_015 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00028.png" }
+  amp_2_cult_auto_emecc_016 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00033.png" }
+  amp_2_cult_auto_emecc_017 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00035.png" }
+  amp_2_cult_auto_emecc_018 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00036.png" }
+  amp_2_cult_auto_emecc_019 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00037.png" }
+  amp_2_cult_auto_emecc_020 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00042.png" }
+  amp_2_cult_auto_emecc_021 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00046.png" }
+  amp_2_cult_auto_emecc_022 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00047.png" }
+  amp_2_cult_auto_emecc_023 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00048.png" }
+  amp_2_cult_auto_emecc_024 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00056.png" }
+  amp_2_cult_auto_emecc_025 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00058.png" }
+  amp_2_cult_auto_emecc_026 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00061.png" }
+  amp_2_cult_auto_emecc_027 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00065.png" }
+  amp_2_cult_auto_emecc_028 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00066.png" }
+  amp_2_cult_auto_emecc_029 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00067.png" }
+  amp_2_cult_auto_emecc_030 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00071.png" }
+  amp_2_cult_auto_emecc_031 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00072.png" }
+  amp_2_cult_auto_emecc_032 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00073.png" }
+  amp_2_cult_auto_emecc_033 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00074.png" }
+  amp_2_cult_auto_emecc_034 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00075.png" }
+  amp_2_cult_auto_emecc_035 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00076.png" }
+  amp_2_cult_auto_emecc_036 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00077.png" }
+  amp_2_cult_auto_emecc_037 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00078.png" }
+  amp_2_cult_auto_emecc_038 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00081.png" }
+  amp_2_cult_auto_emecc_039 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00082.png" }
+  amp_2_cult_auto_emecc_040 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00083.png" }
+  amp_2_cult_auto_emecc_041 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00084.png" }
+  amp_2_cult_auto_emecc_042 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00871.png" }
+  amp_2_cult_auto_emecc_043 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00880.png" }
+  amp_2_cult_auto_emecc_044 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00883.png" }
+  amp_2_cult_auto_emecc_045 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00885.png" }
+  amp_2_cult_auto_emecc_046 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00886.png" }
+  amp_2_cult_auto_emecc_047 = { texturefile = "gfx/models/portraits/amp_2_cult_auto_emecc/emecc-00895.png" }
+}
+portrait_groups = {
+  amp_2_cult_auto_emecc = {
+    default = amp_2_cult_auto_emecc_042
+  game_setup = {
+    add = {
+      portraits = {
+        amp_2_cult_auto_emecc_001
+        amp_2_cult_auto_emecc_002
+        amp_2_cult_auto_emecc_003
+        amp_2_cult_auto_emecc_004
+        amp_2_cult_auto_emecc_005
+        amp_2_cult_auto_emecc_006
+        amp_2_cult_auto_emecc_007
+        amp_2_cult_auto_emecc_008
+        amp_2_cult_auto_emecc_009
+        amp_2_cult_auto_emecc_010
+        amp_2_cult_auto_emecc_011
+        amp_2_cult_auto_emecc_012
+        amp_2_cult_auto_emecc_013
+        amp_2_cult_auto_emecc_014
+        amp_2_cult_auto_emecc_015
+        amp_2_cult_auto_emecc_016
+        amp_2_cult_auto_emecc_017
+        amp_2_cult_auto_emecc_018
+        amp_2_cult_auto_emecc_019
+        amp_2_cult_auto_emecc_020
+        amp_2_cult_auto_emecc_021
+        amp_2_cult_auto_emecc_022
+        amp_2_cult_auto_emecc_023
+        amp_2_cult_auto_emecc_024
+        amp_2_cult_auto_emecc_025
+        amp_2_cult_auto_emecc_026
+        amp_2_cult_auto_emecc_027
+        amp_2_cult_auto_emecc_028
+        amp_2_cult_auto_emecc_029
+        amp_2_cult_auto_emecc_030
+        amp_2_cult_auto_emecc_031
+        amp_2_cult_auto_emecc_032
+        amp_2_cult_auto_emecc_033
+        amp_2_cult_auto_emecc_034
+        amp_2_cult_auto_emecc_035
+        amp_2_cult_auto_emecc_036
+        amp_2_cult_auto_emecc_037
+        amp_2_cult_auto_emecc_038
+        amp_2_cult_auto_emecc_039
+        amp_2_cult_auto_emecc_040
+        amp_2_cult_auto_emecc_041
+        amp_2_cult_auto_emecc_042
+        amp_2_cult_auto_emecc_043
+        amp_2_cult_auto_emecc_044
+        amp_2_cult_auto_emecc_045
+        amp_2_cult_auto_emecc_046
+        amp_2_cult_auto_emecc_047
+        }
+      }
+    }
+  species = {
+    add = {
+      portraits = {
+        amp_2_cult_auto_emecc_001
+        amp_2_cult_auto_emecc_002
+        amp_2_cult_auto_emecc_003
+        amp_2_cult_auto_emecc_004
+        amp_2_cult_auto_emecc_005
+        amp_2_cult_auto_emecc_006
+        amp_2_cult_auto_emecc_007
+        amp_2_cult_auto_emecc_008
+        amp_2_cult_auto_emecc_009
+        amp_2_cult_auto_emecc_010
+        amp_2_cult_auto_emecc_011
+        amp_2_cult_auto_emecc_012
+        amp_2_cult_auto_emecc_013
+        amp_2_cult_auto_emecc_014
+        amp_2_cult_auto_emecc_015
+        amp_2_cult_auto_emecc_016
+        amp_2_cult_auto_emecc_017
+        amp_2_cult_auto_emecc_018
+        amp_2_cult_auto_emecc_019
+        amp_2_cult_auto_emecc_020
+        amp_2_cult_auto_emecc_021
+        amp_2_cult_auto_emecc_022
+        amp_2_cult_auto_emecc_023
+        amp_2_cult_auto_emecc_024
+        amp_2_cult_auto_emecc_025
+        amp_2_cult_auto_emecc_026
+        amp_2_cult_auto_emecc_027
+        amp_2_cult_auto_emecc_028
+        amp_2_cult_auto_emecc_029
+        amp_2_cult_auto_emecc_030
+        amp_2_cult_auto_emecc_031
+        amp_2_cult_auto_emecc_032
+        amp_2_cult_auto_emecc_033
+        amp_2_cult_auto_emecc_034
+        amp_2_cult_auto_emecc_035
+        amp_2_cult_auto_emecc_036
+        amp_2_cult_auto_emecc_037
+        amp_2_cult_auto_emecc_038
+        amp_2_cult_auto_emecc_039
+        amp_2_cult_auto_emecc_040
+        amp_2_cult_auto_emecc_041
+        amp_2_cult_auto_emecc_042
+        amp_2_cult_auto_emecc_043
+        amp_2_cult_auto_emecc_044
+        amp_2_cult_auto_emecc_045
+        amp_2_cult_auto_emecc_046
+        amp_2_cult_auto_emecc_047
+        }
+      }
+    }
+  pop = {
+    add = {
+      portraits = {
+        amp_2_cult_auto_emecc_001
+        amp_2_cult_auto_emecc_002
+        amp_2_cult_auto_emecc_003
+        amp_2_cult_auto_emecc_004
+        amp_2_cult_auto_emecc_005
+        amp_2_cult_auto_emecc_006
+        amp_2_cult_auto_emecc_007
+        amp_2_cult_auto_emecc_008
+        amp_2_cult_auto_emecc_009
+        amp_2_cult_auto_emecc_010
+        amp_2_cult_auto_emecc_011
+        amp_2_cult_auto_emecc_012
+        amp_2_cult_auto_emecc_013
+        amp_2_cult_auto_emecc_014
+        amp_2_cult_auto_emecc_015
+        amp_2_cult_auto_emecc_016
+        amp_2_cult_auto_emecc_017
+        amp_2_cult_auto_emecc_018
+        amp_2_cult_auto_emecc_019
+        amp_2_cult_auto_emecc_020
+        amp_2_cult_auto_emecc_021
+        amp_2_cult_auto_emecc_022
+        amp_2_cult_auto_emecc_023
+        amp_2_cult_auto_emecc_024
+        amp_2_cult_auto_emecc_025
+        amp_2_cult_auto_emecc_026
+        amp_2_cult_auto_emecc_027
+        amp_2_cult_auto_emecc_028
+        amp_2_cult_auto_emecc_029
+        amp_2_cult_auto_emecc_030
+        amp_2_cult_auto_emecc_031
+        amp_2_cult_auto_emecc_032
+        amp_2_cult_auto_emecc_033
+        amp_2_cult_auto_emecc_034
+        amp_2_cult_auto_emecc_035
+        amp_2_cult_auto_emecc_036
+        amp_2_cult_auto_emecc_037
+        amp_2_cult_auto_emecc_038
+        amp_2_cult_auto_emecc_039
+        amp_2_cult_auto_emecc_040
+        amp_2_cult_auto_emecc_041
+        amp_2_cult_auto_emecc_042
+        amp_2_cult_auto_emecc_043
+        amp_2_cult_auto_emecc_044
+        amp_2_cult_auto_emecc_045
+        amp_2_cult_auto_emecc_046
+        amp_2_cult_auto_emecc_047
+        }
+      }
+    }
+  leader = {
+    add = {
+      portraits = {
+        amp_2_cult_auto_emecc_001
+        amp_2_cult_auto_emecc_002
+        amp_2_cult_auto_emecc_003
+        amp_2_cult_auto_emecc_004
+        amp_2_cult_auto_emecc_005
+        amp_2_cult_auto_emecc_006
+        amp_2_cult_auto_emecc_007
+        amp_2_cult_auto_emecc_008
+        amp_2_cult_auto_emecc_009
+        amp_2_cult_auto_emecc_010
+        amp_2_cult_auto_emecc_011
+        amp_2_cult_auto_emecc_012
+        amp_2_cult_auto_emecc_013
+        amp_2_cult_auto_emecc_014
+        amp_2_cult_auto_emecc_015
+        amp_2_cult_auto_emecc_016
+        amp_2_cult_auto_emecc_017
+        amp_2_cult_auto_emecc_018
+        amp_2_cult_auto_emecc_019
+        amp_2_cult_auto_emecc_020
+        amp_2_cult_auto_emecc_021
+        amp_2_cult_auto_emecc_022
+        amp_2_cult_auto_emecc_023
+        amp_2_cult_auto_emecc_024
+        amp_2_cult_auto_emecc_025
+        amp_2_cult_auto_emecc_026
+        amp_2_cult_auto_emecc_027
+        amp_2_cult_auto_emecc_028
+        amp_2_cult_auto_emecc_029
+        amp_2_cult_auto_emecc_030
+        amp_2_cult_auto_emecc_031
+        amp_2_cult_auto_emecc_032
+        amp_2_cult_auto_emecc_033
+        amp_2_cult_auto_emecc_034
+        amp_2_cult_auto_emecc_035
+        amp_2_cult_auto_emecc_036
+        amp_2_cult_auto_emecc_037
+        amp_2_cult_auto_emecc_038
+        amp_2_cult_auto_emecc_039
+        amp_2_cult_auto_emecc_040
+        amp_2_cult_auto_emecc_041
+        amp_2_cult_auto_emecc_042
+        amp_2_cult_auto_emecc_043
+        amp_2_cult_auto_emecc_044
+        amp_2_cult_auto_emecc_045
+        amp_2_cult_auto_emecc_046
+        amp_2_cult_auto_emecc_047
+        }
+      }
+    }
+  ruler = {
+    add = {
+      portraits = {
+        amp_2_cult_auto_emecc_001
+        amp_2_cult_auto_emecc_002
+        amp_2_cult_auto_emecc_003
+        amp_2_cult_auto_emecc_004
+        amp_2_cult_auto_emecc_005
+        amp_2_cult_auto_emecc_006
+        amp_2_cult_auto_emecc_007
+        amp_2_cult_auto_emecc_008
+        amp_2_cult_auto_emecc_009
+        amp_2_cult_auto_emecc_010
+        amp_2_cult_auto_emecc_011
+        amp_2_cult_auto_emecc_012
+        amp_2_cult_auto_emecc_013
+        amp_2_cult_auto_emecc_014
+        amp_2_cult_auto_emecc_015
+        amp_2_cult_auto_emecc_016
+        amp_2_cult_auto_emecc_017
+        amp_2_cult_auto_emecc_018
+        amp_2_cult_auto_emecc_019
+        amp_2_cult_auto_emecc_020
+        amp_2_cult_auto_emecc_021
+        amp_2_cult_auto_emecc_022
+        amp_2_cult_auto_emecc_023
+        amp_2_cult_auto_emecc_024
+        amp_2_cult_auto_emecc_025
+        amp_2_cult_auto_emecc_026
+        amp_2_cult_auto_emecc_027
+        amp_2_cult_auto_emecc_028
+        amp_2_cult_auto_emecc_029
+        amp_2_cult_auto_emecc_030
+        amp_2_cult_auto_emecc_031
+        amp_2_cult_auto_emecc_032
+        amp_2_cult_auto_emecc_033
+        amp_2_cult_auto_emecc_034
+        amp_2_cult_auto_emecc_035
+        amp_2_cult_auto_emecc_036
+        amp_2_cult_auto_emecc_037
+        amp_2_cult_auto_emecc_038
+        amp_2_cult_auto_emecc_039
+        amp_2_cult_auto_emecc_040
+        amp_2_cult_auto_emecc_041
+        amp_2_cult_auto_emecc_042
+        amp_2_cult_auto_emecc_043
+        amp_2_cult_auto_emecc_044
+        amp_2_cult_auto_emecc_045
+        amp_2_cult_auto_emecc_046
+        amp_2_cult_auto_emecc_047
+        }
+      }
+    }
+  }
+}

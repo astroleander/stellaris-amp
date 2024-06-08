@@ -1,8 +1,7 @@
 import fs from 'node:fs';
 import { checkbox } from "@inquirer/prompts";
 
-// const portraitSeries = fs.readdirSync('./gfx/portraits/portraits');
-const portraitSeries = fs.readdirSync('./gfx/models/portraits');
+const portraitSeries = fs.readdirSync('./anime_mechanical_portriats/gfx/models/portraits');
 
 const selectedPortraits = await checkbox({
   message: "Select the scripts to run",
@@ -13,7 +12,7 @@ const selectedPortraits = await checkbox({
 });
 console.log(selectedPortraits);
 selectedPortraits.forEach((portrait) => {
-  const portraitFiles = fs.readdirSync(`./gfx/models/portraits/${portrait}`);
+  const portraitFiles = fs.readdirSync(`./anime_mechanical_portriats/gfx/models/portraits/${portrait}`);
   const list = portraitFiles.map((file, idx) => {
     const portraitFilePath = `gfx/models/portraits/${portrait}/${file}`;
     const name = `${portrait}_${(idx+1).toString().padStart(3, '0')}`;
@@ -39,6 +38,6 @@ ${list.map(({ name }) => `        ${name}`).join('\n')}
   }
 }
 `;
-  const newFile = `gfx/portraits/portraits/${portrait}.txt`;
+  const newFile = `anime_mechanical_portriats/gfx/portraits/portraits/${portrait}.txt`;
   fs.writeFileSync(newFile, newContent);
 })
