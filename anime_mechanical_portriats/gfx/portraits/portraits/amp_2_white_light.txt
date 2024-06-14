@@ -1,0 +1,242 @@
+
+portraits = {
+  amp_2_white_light_001 = { texturefile = "gfx/models/portraits/amp_2_white_light/00199-cornflowerStylizedAnime_12_3738451761.png" }
+  amp_2_white_light_002 = { texturefile = "gfx/models/portraits/amp_2_white_light/00395-cornflowerStylizedAnime_12_3738451957.png" }
+  amp_2_white_light_003 = { texturefile = "gfx/models/portraits/amp_2_white_light/00437-cornflowerStylizedAnime_12_3738451999.png" }
+  amp_2_white_light_004 = { texturefile = "gfx/models/portraits/amp_2_white_light/00453-cornflowerStylizedAnime_12_3738452015.png" }
+  amp_2_white_light_005 = { texturefile = "gfx/models/portraits/amp_2_white_light/00457-cornflowerStylizedAnime_12_3738452019.png" }
+  amp_2_white_light_006 = { texturefile = "gfx/models/portraits/amp_2_white_light/00468-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_007 = { texturefile = "gfx/models/portraits/amp_2_white_light/00470-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_008 = { texturefile = "gfx/models/portraits/amp_2_white_light/00519-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_009 = { texturefile = "gfx/models/portraits/amp_2_white_light/00529-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_010 = { texturefile = "gfx/models/portraits/amp_2_white_light/00548-cornflowerStylizedAnime_12_3738451626 - 副本.png" }
+  amp_2_white_light_011 = { texturefile = "gfx/models/portraits/amp_2_white_light/00548-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_012 = { texturefile = "gfx/models/portraits/amp_2_white_light/00565-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_013 = { texturefile = "gfx/models/portraits/amp_2_white_light/00579-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_014 = { texturefile = "gfx/models/portraits/amp_2_white_light/00599-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_015 = { texturefile = "gfx/models/portraits/amp_2_white_light/00604-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_016 = { texturefile = "gfx/models/portraits/amp_2_white_light/00605-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_017 = { texturefile = "gfx/models/portraits/amp_2_white_light/00620-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_018 = { texturefile = "gfx/models/portraits/amp_2_white_light/00624-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_019 = { texturefile = "gfx/models/portraits/amp_2_white_light/00627-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_020 = { texturefile = "gfx/models/portraits/amp_2_white_light/00638-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_021 = { texturefile = "gfx/models/portraits/amp_2_white_light/00679-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_022 = { texturefile = "gfx/models/portraits/amp_2_white_light/00744-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_023 = { texturefile = "gfx/models/portraits/amp_2_white_light/00772-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_024 = { texturefile = "gfx/models/portraits/amp_2_white_light/00773-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_025 = { texturefile = "gfx/models/portraits/amp_2_white_light/00797-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_026 = { texturefile = "gfx/models/portraits/amp_2_white_light/00802-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_027 = { texturefile = "gfx/models/portraits/amp_2_white_light/00836-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_028 = { texturefile = "gfx/models/portraits/amp_2_white_light/00845-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_029 = { texturefile = "gfx/models/portraits/amp_2_white_light/00852-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_030 = { texturefile = "gfx/models/portraits/amp_2_white_light/00853-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_white_light_031 = { texturefile = "gfx/models/portraits/amp_2_white_light/img_-0374-cornflowerStylizedAnime_12_3738451987.png" }
+  amp_2_white_light_032 = { texturefile = "gfx/models/portraits/amp_2_white_light/img_-0392-cornflowerStylizedAnime_12_3738452005.png" }
+  amp_2_white_light_033 = { texturefile = "gfx/models/portraits/amp_2_white_light/img_-0404-cornflowerStylizedAnime_12_3738452017.png" }
+  amp_2_white_light_034 = { texturefile = "gfx/models/portraits/amp_2_white_light/img_-0407-cornflowerStylizedAnime_12_3738452020.png" }
+}
+portrait_groups = {
+  amp_2_white_light = {
+    default = amp_2_white_light_010
+  game_setup = {
+    add = {
+      portraits = {
+        amp_2_white_light_001
+        amp_2_white_light_002
+        amp_2_white_light_003
+        amp_2_white_light_004
+        amp_2_white_light_005
+        amp_2_white_light_006
+        amp_2_white_light_007
+        amp_2_white_light_008
+        amp_2_white_light_009
+        amp_2_white_light_010
+        amp_2_white_light_011
+        amp_2_white_light_012
+        amp_2_white_light_013
+        amp_2_white_light_014
+        amp_2_white_light_015
+        amp_2_white_light_016
+        amp_2_white_light_017
+        amp_2_white_light_018
+        amp_2_white_light_019
+        amp_2_white_light_020
+        amp_2_white_light_021
+        amp_2_white_light_022
+        amp_2_white_light_023
+        amp_2_white_light_024
+        amp_2_white_light_025
+        amp_2_white_light_026
+        amp_2_white_light_027
+        amp_2_white_light_028
+        amp_2_white_light_029
+        amp_2_white_light_030
+        amp_2_white_light_031
+        amp_2_white_light_032
+        amp_2_white_light_033
+        amp_2_white_light_034
+        }
+      }
+    }
+  species = {
+    add = {
+      portraits = {
+        amp_2_white_light_001
+        amp_2_white_light_002
+        amp_2_white_light_003
+        amp_2_white_light_004
+        amp_2_white_light_005
+        amp_2_white_light_006
+        amp_2_white_light_007
+        amp_2_white_light_008
+        amp_2_white_light_009
+        amp_2_white_light_010
+        amp_2_white_light_011
+        amp_2_white_light_012
+        amp_2_white_light_013
+        amp_2_white_light_014
+        amp_2_white_light_015
+        amp_2_white_light_016
+        amp_2_white_light_017
+        amp_2_white_light_018
+        amp_2_white_light_019
+        amp_2_white_light_020
+        amp_2_white_light_021
+        amp_2_white_light_022
+        amp_2_white_light_023
+        amp_2_white_light_024
+        amp_2_white_light_025
+        amp_2_white_light_026
+        amp_2_white_light_027
+        amp_2_white_light_028
+        amp_2_white_light_029
+        amp_2_white_light_030
+        amp_2_white_light_031
+        amp_2_white_light_032
+        amp_2_white_light_033
+        amp_2_white_light_034
+        }
+      }
+    }
+  pop = {
+    add = {
+      portraits = {
+        amp_2_white_light_001
+        amp_2_white_light_002
+        amp_2_white_light_003
+        amp_2_white_light_004
+        amp_2_white_light_005
+        amp_2_white_light_006
+        amp_2_white_light_007
+        amp_2_white_light_008
+        amp_2_white_light_009
+        amp_2_white_light_010
+        amp_2_white_light_011
+        amp_2_white_light_012
+        amp_2_white_light_013
+        amp_2_white_light_014
+        amp_2_white_light_015
+        amp_2_white_light_016
+        amp_2_white_light_017
+        amp_2_white_light_018
+        amp_2_white_light_019
+        amp_2_white_light_020
+        amp_2_white_light_021
+        amp_2_white_light_022
+        amp_2_white_light_023
+        amp_2_white_light_024
+        amp_2_white_light_025
+        amp_2_white_light_026
+        amp_2_white_light_027
+        amp_2_white_light_028
+        amp_2_white_light_029
+        amp_2_white_light_030
+        amp_2_white_light_031
+        amp_2_white_light_032
+        amp_2_white_light_033
+        amp_2_white_light_034
+        }
+      }
+    }
+  leader = {
+    add = {
+      portraits = {
+        amp_2_white_light_001
+        amp_2_white_light_002
+        amp_2_white_light_003
+        amp_2_white_light_004
+        amp_2_white_light_005
+        amp_2_white_light_006
+        amp_2_white_light_007
+        amp_2_white_light_008
+        amp_2_white_light_009
+        amp_2_white_light_010
+        amp_2_white_light_011
+        amp_2_white_light_012
+        amp_2_white_light_013
+        amp_2_white_light_014
+        amp_2_white_light_015
+        amp_2_white_light_016
+        amp_2_white_light_017
+        amp_2_white_light_018
+        amp_2_white_light_019
+        amp_2_white_light_020
+        amp_2_white_light_021
+        amp_2_white_light_022
+        amp_2_white_light_023
+        amp_2_white_light_024
+        amp_2_white_light_025
+        amp_2_white_light_026
+        amp_2_white_light_027
+        amp_2_white_light_028
+        amp_2_white_light_029
+        amp_2_white_light_030
+        amp_2_white_light_031
+        amp_2_white_light_032
+        amp_2_white_light_033
+        amp_2_white_light_034
+        }
+      }
+    }
+  ruler = {
+    add = {
+      portraits = {
+        amp_2_white_light_001
+        amp_2_white_light_002
+        amp_2_white_light_003
+        amp_2_white_light_004
+        amp_2_white_light_005
+        amp_2_white_light_006
+        amp_2_white_light_007
+        amp_2_white_light_008
+        amp_2_white_light_009
+        amp_2_white_light_010
+        amp_2_white_light_011
+        amp_2_white_light_012
+        amp_2_white_light_013
+        amp_2_white_light_014
+        amp_2_white_light_015
+        amp_2_white_light_016
+        amp_2_white_light_017
+        amp_2_white_light_018
+        amp_2_white_light_019
+        amp_2_white_light_020
+        amp_2_white_light_021
+        amp_2_white_light_022
+        amp_2_white_light_023
+        amp_2_white_light_024
+        amp_2_white_light_025
+        amp_2_white_light_026
+        amp_2_white_light_027
+        amp_2_white_light_028
+        amp_2_white_light_029
+        amp_2_white_light_030
+        amp_2_white_light_031
+        amp_2_white_light_032
+        amp_2_white_light_033
+        amp_2_white_light_034
+        }
+      }
+    }
+  }
+}
