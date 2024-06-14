@@ -17,6 +17,7 @@ ammp_machine = {
 			"ammp_school_uniform"
 			"ammp_2_porcelain_executor"
 			"amp_2_cult_auto_emecc"
+			"amp_2_white_light"
 		}
 	}
 }
@@ -41,6 +42,7 @@ ammp_robot = {
 			"ammp_school_uniform"
 			"ammp_2_porcelain_executor"
 			"amp_2_cult_auto_emecc"
+			"amp_2_white_light"
 		}
 	}
 }
@@ -64,6 +66,7 @@ ammp_cybernetic = {
 			"ammp_school_uniform"
 			"ammp_2_porcelain_executor"
 			"amp_2_cult_auto_emecc"
+			"amp_2_white_light"
 		}
 	}
 }
@@ -87,6 +90,7 @@ ammp_synthetics = {
 			"ammp_school_uniform"
 			"ammp_2_porcelain_executor"
 			"amp_2_cult_auto_emecc"
+			"amp_2_white_light"
 		}
 	}
 }
