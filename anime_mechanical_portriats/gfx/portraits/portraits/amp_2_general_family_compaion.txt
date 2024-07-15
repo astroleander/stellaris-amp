@@ -1,0 +1,74 @@
+
+portraits = {
+  amp_2_general_family_compaion_001 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00108-cornflowerStylizedAnime_12_3253747038.png" }
+  amp_2_general_family_compaion_002 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00362-cornflowerStylizedAnime_12_4041787022.png" }
+  amp_2_general_family_compaion_003 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00672-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_general_family_compaion_004 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00766-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_general_family_compaion_005 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00793-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_general_family_compaion_006 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/img_-0396-cornflowerStylizedAnime_12_3738452009.png" }
+}
+portrait_groups = {
+  amp_2_general_family_compaion = {
+    default = amp_2_general_family_compaion_001
+  game_setup = {
+    add = {
+      portraits = {
+        amp_2_general_family_compaion_001
+        amp_2_general_family_compaion_002
+        amp_2_general_family_compaion_003
+        amp_2_general_family_compaion_004
+        amp_2_general_family_compaion_005
+        amp_2_general_family_compaion_006
+        }
+      }
+    }
+  species = {
+    add = {
+      portraits = {
+        amp_2_general_family_compaion_001
+        amp_2_general_family_compaion_002
+        amp_2_general_family_compaion_003
+        amp_2_general_family_compaion_004
+        amp_2_general_family_compaion_005
+        amp_2_general_family_compaion_006
+        }
+      }
+    }
+  pop = {
+    add = {
+      portraits = {
+        amp_2_general_family_compaion_001
+        amp_2_general_family_compaion_002
+        amp_2_general_family_compaion_003
+        amp_2_general_family_compaion_004
+        amp_2_general_family_compaion_005
+        amp_2_general_family_compaion_006
+        }
+      }
+    }
+  leader = {
+    add = {
+      portraits = {
+        amp_2_general_family_compaion_001
+        amp_2_general_family_compaion_002
+        amp_2_general_family_compaion_003
+        amp_2_general_family_compaion_004
+        amp_2_general_family_compaion_005
+        amp_2_general_family_compaion_006
+        }
+      }
+    }
+  ruler = {
+    add = {
+      portraits = {
+        amp_2_general_family_compaion_001
+        amp_2_general_family_compaion_002
+        amp_2_general_family_compaion_003
+        amp_2_general_family_compaion_004
+        amp_2_general_family_compaion_005
+        amp_2_general_family_compaion_006
+        }
+      }
+    }
+  }
+}

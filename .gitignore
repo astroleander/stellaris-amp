@@ -1,3 +1,5 @@
 /!raw/
 /!raw-materials/
 node_modules/
+/!**/
+!/!description/
