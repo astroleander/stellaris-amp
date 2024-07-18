@@ -1,15 +1,29 @@
 
 portraits = {
-  amp_2_general_family_compaion_001 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00108-cornflowerStylizedAnime_12_3253747038.png" }
-  amp_2_general_family_compaion_002 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00362-cornflowerStylizedAnime_12_4041787022.png" }
-  amp_2_general_family_compaion_003 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00672-cornflowerStylizedAnime_12_3738451626.png" }
-  amp_2_general_family_compaion_004 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00766-cornflowerStylizedAnime_12_3738451626.png" }
-  amp_2_general_family_compaion_005 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00793-cornflowerStylizedAnime_12_3738451626.png" }
-  amp_2_general_family_compaion_006 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/img_-0396-cornflowerStylizedAnime_12_3738452009.png" }
+  amp_2_general_family_compaion_001 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00000-cornflowerStylizedAnime_12_4208489320.png" }
+  amp_2_general_family_compaion_002 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00003-cornflowerStylizedAnime_12_2102923917.png" }
+  amp_2_general_family_compaion_003 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00004-cornflowerStylizedAnime_12_2102923918.png" }
+  amp_2_general_family_compaion_004 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00005-cornflowerStylizedAnime_12_2102923919.png" }
+  amp_2_general_family_compaion_005 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00009-cornflowerStylizedAnime_12_2102923923.png" }
+  amp_2_general_family_compaion_006 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00025-cornflowerStylizedAnime_12_544835374.png" }
+  amp_2_general_family_compaion_007 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00038-cornflowerStylizedAnime_12_544835387.png" }
+  amp_2_general_family_compaion_008 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00041-cornflowerStylizedAnime_12_2295188701.png" }
+  amp_2_general_family_compaion_009 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00044-cornflowerStylizedAnime_12_1101795011.png" }
+  amp_2_general_family_compaion_010 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00108-cornflowerStylizedAnime_12_3253747038.png" }
+  amp_2_general_family_compaion_011 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00362-cornflowerStylizedAnime_12_4041787022.png" }
+  amp_2_general_family_compaion_012 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00594-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_general_family_compaion_013 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00672-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_general_family_compaion_014 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00707-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_general_family_compaion_015 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00758-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_general_family_compaion_016 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00766-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_general_family_compaion_017 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00793-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_general_family_compaion_018 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00794-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_general_family_compaion_019 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/00835-cornflowerStylizedAnime_12_3738451626.png" }
+  amp_2_general_family_compaion_020 = { texturefile = "gfx/models/portraits/amp_2_general_family_compaion/img_-0396-cornflowerStylizedAnime_12_3738452009.png" }
 }
 portrait_groups = {
   amp_2_general_family_compaion = {
-    default = amp_2_general_family_compaion_001
+    default = amp_2_general_family_compaion_010
   game_setup = {
     add = {
       portraits = {
@@ -19,6 +33,20 @@ portrait_groups = {
         amp_2_general_family_compaion_004
         amp_2_general_family_compaion_005
         amp_2_general_family_compaion_006
+        amp_2_general_family_compaion_007
+        amp_2_general_family_compaion_008
+        amp_2_general_family_compaion_009
+        amp_2_general_family_compaion_010
+        amp_2_general_family_compaion_011
+        amp_2_general_family_compaion_012
+        amp_2_general_family_compaion_013
+        amp_2_general_family_compaion_014
+        amp_2_general_family_compaion_015
+        amp_2_general_family_compaion_016
+        amp_2_general_family_compaion_017
+        amp_2_general_family_compaion_018
+        amp_2_general_family_compaion_019
+        amp_2_general_family_compaion_020
         }
       }
     }
@@ -31,6 +59,20 @@ portrait_groups = {
         amp_2_general_family_compaion_004
         amp_2_general_family_compaion_005
         amp_2_general_family_compaion_006
+        amp_2_general_family_compaion_007
+        amp_2_general_family_compaion_008
+        amp_2_general_family_compaion_009
+        amp_2_general_family_compaion_010
+        amp_2_general_family_compaion_011
+        amp_2_general_family_compaion_012
+        amp_2_general_family_compaion_013
+        amp_2_general_family_compaion_014
+        amp_2_general_family_compaion_015
+        amp_2_general_family_compaion_016
+        amp_2_general_family_compaion_017
+        amp_2_general_family_compaion_018
+        amp_2_general_family_compaion_019
+        amp_2_general_family_compaion_020
         }
       }
     }
@@ -43,6 +85,20 @@ portrait_groups = {
         amp_2_general_family_compaion_004
         amp_2_general_family_compaion_005
         amp_2_general_family_compaion_006
+        amp_2_general_family_compaion_007
+        amp_2_general_family_compaion_008
+        amp_2_general_family_compaion_009
+        amp_2_general_family_compaion_010
+        amp_2_general_family_compaion_011
+        amp_2_general_family_compaion_012
+        amp_2_general_family_compaion_013
+        amp_2_general_family_compaion_014
+        amp_2_general_family_compaion_015
+        amp_2_general_family_compaion_016
+        amp_2_general_family_compaion_017
+        amp_2_general_family_compaion_018
+        amp_2_general_family_compaion_019
+        amp_2_general_family_compaion_020
         }
       }
     }
@@ -55,6 +111,20 @@ portrait_groups = {
         amp_2_general_family_compaion_004
         amp_2_general_family_compaion_005
         amp_2_general_family_compaion_006
+        amp_2_general_family_compaion_007
+        amp_2_general_family_compaion_008
+        amp_2_general_family_compaion_009
+        amp_2_general_family_compaion_010
+        amp_2_general_family_compaion_011
+        amp_2_general_family_compaion_012
+        amp_2_general_family_compaion_013
+        amp_2_general_family_compaion_014
+        amp_2_general_family_compaion_015
+        amp_2_general_family_compaion_016
+        amp_2_general_family_compaion_017
+        amp_2_general_family_compaion_018
+        amp_2_general_family_compaion_019
+        amp_2_general_family_compaion_020
         }
       }
     }
@@ -67,6 +137,20 @@ portrait_groups = {
         amp_2_general_family_compaion_004
         amp_2_general_family_compaion_005
         amp_2_general_family_compaion_006
+        amp_2_general_family_compaion_007
+        amp_2_general_family_compaion_008
+        amp_2_general_family_compaion_009
+        amp_2_general_family_compaion_010
+        amp_2_general_family_compaion_011
+        amp_2_general_family_compaion_012
+        amp_2_general_family_compaion_013
+        amp_2_general_family_compaion_014
+        amp_2_general_family_compaion_015
+        amp_2_general_family_compaion_016
+        amp_2_general_family_compaion_017
+        amp_2_general_family_compaion_018
+        amp_2_general_family_compaion_019
+        amp_2_general_family_compaion_020
         }
       }
     }
