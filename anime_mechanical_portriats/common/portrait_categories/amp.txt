@@ -16,3 +16,9 @@ synthetics = {
 		ammp_synthetic
 	}
 }
+
+humanoids = {
+	sets = {
+		ammp_humanoid
+	}
+}

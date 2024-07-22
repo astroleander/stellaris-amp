@@ -1,0 +1,236 @@
+
+portraits = {
+  amp_2_evasuit_001 = { texturefile = "gfx/models/portraits/amp_2_evasuit/01.png" }
+  amp_2_evasuit_002 = { texturefile = "gfx/models/portraits/amp_2_evasuit/02.png" }
+  amp_2_evasuit_003 = { texturefile = "gfx/models/portraits/amp_2_evasuit/03.png" }
+  amp_2_evasuit_004 = { texturefile = "gfx/models/portraits/amp_2_evasuit/04.png" }
+  amp_2_evasuit_005 = { texturefile = "gfx/models/portraits/amp_2_evasuit/05.png" }
+  amp_2_evasuit_006 = { texturefile = "gfx/models/portraits/amp_2_evasuit/06.png" }
+  amp_2_evasuit_007 = { texturefile = "gfx/models/portraits/amp_2_evasuit/07.png" }
+  amp_2_evasuit_008 = { texturefile = "gfx/models/portraits/amp_2_evasuit/08.png" }
+  amp_2_evasuit_009 = { texturefile = "gfx/models/portraits/amp_2_evasuit/09.png" }
+  amp_2_evasuit_010 = { texturefile = "gfx/models/portraits/amp_2_evasuit/10.png" }
+  amp_2_evasuit_011 = { texturefile = "gfx/models/portraits/amp_2_evasuit/11.png" }
+  amp_2_evasuit_012 = { texturefile = "gfx/models/portraits/amp_2_evasuit/12.png" }
+  amp_2_evasuit_013 = { texturefile = "gfx/models/portraits/amp_2_evasuit/13.png" }
+  amp_2_evasuit_014 = { texturefile = "gfx/models/portraits/amp_2_evasuit/14.png" }
+  amp_2_evasuit_015 = { texturefile = "gfx/models/portraits/amp_2_evasuit/15.png" }
+  amp_2_evasuit_016 = { texturefile = "gfx/models/portraits/amp_2_evasuit/16.png" }
+  amp_2_evasuit_017 = { texturefile = "gfx/models/portraits/amp_2_evasuit/17.png" }
+  amp_2_evasuit_018 = { texturefile = "gfx/models/portraits/amp_2_evasuit/18.png" }
+  amp_2_evasuit_019 = { texturefile = "gfx/models/portraits/amp_2_evasuit/19.png" }
+  amp_2_evasuit_020 = { texturefile = "gfx/models/portraits/amp_2_evasuit/20.png" }
+  amp_2_evasuit_021 = { texturefile = "gfx/models/portraits/amp_2_evasuit/21.png" }
+  amp_2_evasuit_022 = { texturefile = "gfx/models/portraits/amp_2_evasuit/22.png" }
+  amp_2_evasuit_023 = { texturefile = "gfx/models/portraits/amp_2_evasuit/23.png" }
+  amp_2_evasuit_024 = { texturefile = "gfx/models/portraits/amp_2_evasuit/24.png" }
+  amp_2_evasuit_025 = { texturefile = "gfx/models/portraits/amp_2_evasuit/25.png" }
+  amp_2_evasuit_026 = { texturefile = "gfx/models/portraits/amp_2_evasuit/26.png" }
+  amp_2_evasuit_027 = { texturefile = "gfx/models/portraits/amp_2_evasuit/27.png" }
+  amp_2_evasuit_028 = { texturefile = "gfx/models/portraits/amp_2_evasuit/28.png" }
+  amp_2_evasuit_029 = { texturefile = "gfx/models/portraits/amp_2_evasuit/29.png" }
+  amp_2_evasuit_030 = { texturefile = "gfx/models/portraits/amp_2_evasuit/30.png" }
+  amp_2_evasuit_031 = { texturefile = "gfx/models/portraits/amp_2_evasuit/31.png" }
+  amp_2_evasuit_032 = { texturefile = "gfx/models/portraits/amp_2_evasuit/32.png" }
+  amp_2_evasuit_033 = { texturefile = "gfx/models/portraits/amp_2_evasuit/33.png" }
+}
+portrait_groups = {
+  amp_2_evasuit = {
+    default = amp_2_evasuit_001
+  game_setup = {
+    add = {
+      portraits = {
+        amp_2_evasuit_001
+        amp_2_evasuit_002
+        amp_2_evasuit_003
+        amp_2_evasuit_004
+        amp_2_evasuit_005
+        amp_2_evasuit_006
+        amp_2_evasuit_007
+        amp_2_evasuit_008
+        amp_2_evasuit_009
+        amp_2_evasuit_010
+        amp_2_evasuit_011
+        amp_2_evasuit_012
+        amp_2_evasuit_013
+        amp_2_evasuit_014
+        amp_2_evasuit_015
+        amp_2_evasuit_016
+        amp_2_evasuit_017
+        amp_2_evasuit_018
+        amp_2_evasuit_019
+        amp_2_evasuit_020
+        amp_2_evasuit_021
+        amp_2_evasuit_022
+        amp_2_evasuit_023
+        amp_2_evasuit_024
+        amp_2_evasuit_025
+        amp_2_evasuit_026
+        amp_2_evasuit_027
+        amp_2_evasuit_028
+        amp_2_evasuit_029
+        amp_2_evasuit_030
+        amp_2_evasuit_031
+        amp_2_evasuit_032
+        amp_2_evasuit_033
+        }
+      }
+    }
+  species = {
+    add = {
+      portraits = {
+        amp_2_evasuit_001
+        amp_2_evasuit_002
+        amp_2_evasuit_003
+        amp_2_evasuit_004
+        amp_2_evasuit_005
+        amp_2_evasuit_006
+        amp_2_evasuit_007
+        amp_2_evasuit_008
+        amp_2_evasuit_009
+        amp_2_evasuit_010
+        amp_2_evasuit_011
+        amp_2_evasuit_012
+        amp_2_evasuit_013
+        amp_2_evasuit_014
+        amp_2_evasuit_015
+        amp_2_evasuit_016
+        amp_2_evasuit_017
+        amp_2_evasuit_018
+        amp_2_evasuit_019
+        amp_2_evasuit_020
+        amp_2_evasuit_021
+        amp_2_evasuit_022
+        amp_2_evasuit_023
+        amp_2_evasuit_024
+        amp_2_evasuit_025
+        amp_2_evasuit_026
+        amp_2_evasuit_027
+        amp_2_evasuit_028
+        amp_2_evasuit_029
+        amp_2_evasuit_030
+        amp_2_evasuit_031
+        amp_2_evasuit_032
+        amp_2_evasuit_033
+        }
+      }
+    }
+  pop = {
+    add = {
+      portraits = {
+        amp_2_evasuit_001
+        amp_2_evasuit_002
+        amp_2_evasuit_003
+        amp_2_evasuit_004
+        amp_2_evasuit_005
+        amp_2_evasuit_006
+        amp_2_evasuit_007
+        amp_2_evasuit_008
+        amp_2_evasuit_009
+        amp_2_evasuit_010
+        amp_2_evasuit_011
+        amp_2_evasuit_012
+        amp_2_evasuit_013
+        amp_2_evasuit_014
+        amp_2_evasuit_015
+        amp_2_evasuit_016
+        amp_2_evasuit_017
+        amp_2_evasuit_018
+        amp_2_evasuit_019
+        amp_2_evasuit_020
+        amp_2_evasuit_021
+        amp_2_evasuit_022
+        amp_2_evasuit_023
+        amp_2_evasuit_024
+        amp_2_evasuit_025
+        amp_2_evasuit_026
+        amp_2_evasuit_027
+        amp_2_evasuit_028
+        amp_2_evasuit_029
+        amp_2_evasuit_030
+        amp_2_evasuit_031
+        amp_2_evasuit_032
+        amp_2_evasuit_033
+        }
+      }
+    }
+  leader = {
+    add = {
+      portraits = {
+        amp_2_evasuit_001
+        amp_2_evasuit_002
+        amp_2_evasuit_003
+        amp_2_evasuit_004
+        amp_2_evasuit_005
+        amp_2_evasuit_006
+        amp_2_evasuit_007
+        amp_2_evasuit_008
+        amp_2_evasuit_009
+        amp_2_evasuit_010
+        amp_2_evasuit_011
+        amp_2_evasuit_012
+        amp_2_evasuit_013
+        amp_2_evasuit_014
+        amp_2_evasuit_015
+        amp_2_evasuit_016
+        amp_2_evasuit_017
+        amp_2_evasuit_018
+        amp_2_evasuit_019
+        amp_2_evasuit_020
+        amp_2_evasuit_021
+        amp_2_evasuit_022
+        amp_2_evasuit_023
+        amp_2_evasuit_024
+        amp_2_evasuit_025
+        amp_2_evasuit_026
+        amp_2_evasuit_027
+        amp_2_evasuit_028
+        amp_2_evasuit_029
+        amp_2_evasuit_030
+        amp_2_evasuit_031
+        amp_2_evasuit_032
+        amp_2_evasuit_033
+        }
+      }
+    }
+  ruler = {
+    add = {
+      portraits = {
+        amp_2_evasuit_001
+        amp_2_evasuit_002
+        amp_2_evasuit_003
+        amp_2_evasuit_004
+        amp_2_evasuit_005
+        amp_2_evasuit_006
+        amp_2_evasuit_007
+        amp_2_evasuit_008
+        amp_2_evasuit_009
+        amp_2_evasuit_010
+        amp_2_evasuit_011
+        amp_2_evasuit_012
+        amp_2_evasuit_013
+        amp_2_evasuit_014
+        amp_2_evasuit_015
+        amp_2_evasuit_016
+        amp_2_evasuit_017
+        amp_2_evasuit_018
+        amp_2_evasuit_019
+        amp_2_evasuit_020
+        amp_2_evasuit_021
+        amp_2_evasuit_022
+        amp_2_evasuit_023
+        amp_2_evasuit_024
+        amp_2_evasuit_025
+        amp_2_evasuit_026
+        amp_2_evasuit_027
+        amp_2_evasuit_028
+        amp_2_evasuit_029
+        amp_2_evasuit_030
+        amp_2_evasuit_031
+        amp_2_evasuit_032
+        amp_2_evasuit_033
+        }
+      }
+    }
+  }
+}

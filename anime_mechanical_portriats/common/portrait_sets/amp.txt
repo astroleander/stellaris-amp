@@ -19,11 +19,12 @@ ammp_machine = {
 			"amp_2_cult_auto_emecc"
 			"amp_2_white_light"
 			"amp_2_general_family_compaion"
+			"amp_2_evasuit"
 		}
 	}
 }
 
-# robot is not in the categories list
+# not registered in the portrait_categories, don't know how but official file don't have this
 ammp_robot = {
 	species_class = ROBOT
 
@@ -49,8 +50,9 @@ ammp_robot = {
 	}
 }
 
-ammp_cybernetic = {
-	species_class = CYBERNETIC
+# not registered in the portrait_categories, don't know how but official file don't have this
+ammp_ai = {
+	species_class = AI
 
 	conditional_portraits = {
 		portraits = {
@@ -70,12 +72,50 @@ ammp_cybernetic = {
 			"amp_2_cult_auto_emecc"
 			"amp_2_white_light"
 			"amp_2_general_family_compaion"
+			"amp_2_evasuit"
 		}
 	}
 }
 
-ammp_synthetics = {
+ammp_humanoid = {
+	species_class = HUM
+
+	conditional_portraits = {
+		portraits = {
+			"amp_2_evasuit"
+		}
+	}
+}
+
+ammp_synthetic = {
 	species_class = SYNTH
+
+	conditional_portraits = {
+		portraits = {
+			"ammp_core"
+			"ammp_mechanical_abnormal"
+			"ammp_mechanical_animal_waifu"
+			"ammp_mechanical_doll"
+			"ammp_mechanical_kimono"
+			"ammp_mechanical_maid"
+			"ammp_mechanical_normal"
+			"ammp_mechanical_normal_2"
+			"ammp_mechanical_nun"
+			"ammp_mechanical_pristess"
+			"ammp_mechanical_undead"
+			"ammp_school_uniform"
+			"ammp_2_porcelain_executor"
+			"amp_2_cult_auto_emecc"
+			"amp_2_white_light"
+			"amp_2_general_family_compaion"
+			"amp_2_evasuit"
+		}
+	}
+}
+
+# for others mods to use
+ammp_cybernetic = {
+	species_class = CYBERNETIC
 
 	conditional_portraits = {
 		portraits = {
