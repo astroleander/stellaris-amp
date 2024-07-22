@@ -36,7 +36,7 @@ portraits = {
 }
 portrait_groups = {
   amp_2_evasuit = {
-    default = amp_2_evasuit_001
+    default = amp_2_evasuit_009
   game_setup = {
     add = {
       portraits = {
